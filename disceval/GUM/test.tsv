@@ -1,0 +1,249 @@
+sentence1	sentence2	label
+the prevalence of discrimination across racial groups in contemporary america :	results from a nationally representative sample of adults	elaboration
+mandatory diversity trainings in professional settings , for example , are intended to reduce bias in the workplace	by increasing the awareness of employees regarding the challenges facing minority group members . [ 12 ]	elaboration
+even so , estimates of the prevalence of perceived discrimination remains rare	( see [ 13 – 14 ] ) .	evidence
+at least one prior study by kessler and colleagues [ 15 ] , however , using measures of perceived discrimination in a large american sample , reported that approximately 33 % of respondents reported some form of discrimination	( see also , gibbons et al. [ 4 ] ) .	evidence
+the current study seeks to build on this research by estimating the prevalence of discrimination experiences among a large , nationally representative sample of adults from the united states .	additionally , the analysis address the perceived reasons for reported discrimination experiences .	elaboration
+""" what do you think was the main reason for these experiences ? """	all respondents who indicated they were discriminated against — specifically , those who responded with sometimes or often to the perceived discrimination measure described above — were asked the following question :	preparation
+for the present analysis , these responses were recoded into nine mutually exclusive categories	capturing the following options :	result
+the built-in skip pattern resulted in a large number of cases scored as missing ( legitimate skip ) .	additionally , because this question was only asked of respondents who reported prior discrimination experiences ,	cause
+we use the racial category reported by the respondent during the wave 1 interview .	because a race variable is not available from the wave 4 interviews ,	cause
+but not all would have been interviewed at wave 3	due to differential patterns of temporary attrition .	cause
+two additional demographic variables are included .	to provide information on the analytical sample as a whole ,	purpose
+the adjusted f statistic ( design-based f ) was employed	as it corrects for a complex sample design such as that used in the add health . [ 21 ]	cause
+"the conventional pearson χ2 statistic test of independence is converted into "" an f statistic with noninteger degrees of freedom by using a second-order rao and scott ( 1981 [ 22 ] , 1984 [ 23 ] ) correction "" . [ 24 ]"	more specifically , when analyzing weighted sample data employing the svy suite of commands in stata	circumstance
+the p-value associated with the design-based f is thus more accurate ( than the associated with the χ2 statistic )	given the adjustments and calculations take into account the weighted nature of the data .	cause
+at least one prior study by kessler and colleagues [ 15 ] , however , using measures of perceived discrimination in a large american sample , reported that approximately 33 % of respondents reported some form of discrimination	results from a nationally representative sample of adults	no_relation
+"the conventional pearson χ2 statistic test of independence is converted into "" an f statistic with noninteger degrees of freedom by using a second-order rao and scott ( 1981 [ 22 ] , 1984 [ 23 ] ) correction "" . [ 24 ]"	because a race variable is not available from the wave 4 interviews ,	no_relation
+to provide information on the analytical sample as a whole ,	religion ;	no_relation
+agents can rationally choose between experts	only if the criteria that distinguish genuine experts from charlatans are common sense or widely known :	condition
+they must know what kinds of knowledge they must utilize	to guide their selection of sources	purpose
+to mimic the markers of expertise is to mimic expertise [ 17 ] .	since expertise must be assessed through indirect markers ,	justify
+we live in an epistemic environment that is heavily and deliberately polluted by agents who use mimicry and other methods as a means of inflating their pretense to expertise .	this fact , together with the fact that such deception is widely known to occur , reduces ordinary people 's trust in expert authority and diminishes their capacity to distinguish reliable from unreliable sources .	result
+taking advantage of the ways in which these parallel institutions mimic legitimate institutions	to ensure that people are taken in .	purpose
+for example , a small number of doctors set up the american college of pediatricians ( acpeds )	to advocate socially conservative viewpoints related to child health care .	purpose
+but it has had the unfortunate ( and likely intended ) effect of muddying debates in the public forum	by misleading people into thinking that the college speaks for the pediatric profession at large .	cause
+many people mistook the organization 's political beliefs for the consensus view among united states pediatricians —	although the peak body for pediatric workers , the american academy of pediatrics , has a much more positive view of gender dysphoria [ 22 ] .	antithesis
+it is reasonable to give its views greater weight than those of the smaller organization .	insofar as the larger organization , with a broader membership base , can be expected to reflect a wider range of expert opinions and a higher degree of expertise ,	condition
+it introduces an epistemic pollutant .	when acpeds allows or encourages the impression that it speaks for the profession ,	circumstance
+a yet more egregious example of such pollution involved collaborative efforts by pharmaceutical companies and the publishing giant elsevier to produce publications mimicking peer-reviewed journals	in the interest of promoting the companies ' commercial products [ 23 ] .	purpose
+the companies hoped to leverage the prestige of elsevier with these fake journals	"to endow their promotional "" research "" with an air of reliability ."	purpose
+but rather the legitimacy of elsevier 's publications — and , by extension , all academic journals — was diminished through their dissemination of deceptive and commercially interested research .	the legitimacy of the published findings was not enhanced through their publication by elsevier ,	antithesis
+for example , the frontiers contingent of journals appears legitimate — at least to me —	despite the fact that authors are expected to pay a publication fee . 8	concession
+yet some frontiers journals appear to have engaged in bad behavior ,	whether for profit or for some other motive .	purpose
+jeffrey beall decided to add the publisher to his influential ( but now sadly unavailable ) list of questionable journals [ 26 ] .	whether due to this behavior or not ,	cause
+one can not reasonably expect ordinary people to make such judgments .	if academics with expertise in relevant fields have difficulty assessing whether particular journals or particular publishers are legitimate ,	justify
+one can hardly blame them .	if their confidence in scientific findings is lowered across the board as the result of such epistemic pollution ,	condition
+it is incumbent on me to note that i have published in frontiers journals on several occasions .	since conflicts of interest are a reason to discount expertise ,	justify
+these institutions do not exist	solely to credential experts .	purpose
+and these functions may come into conflict ,	creating pressures to inflate credentials .	result
+and many cases of such manipulation exist —	take the recent example by the university of malaysia , which attempted to boost metrics by urging its faculty to cite one another [ 28 ] .	evidence
+and they may try to keep their discoveries in-house	to protect their reputations .	purpose
+in fact , many , if not all , the markers of expertise identified by philosophers enjoy widespread recognition .	but rather the legitimacy of elsevier 's publications — and , by extension , all academic journals — was diminished through their dissemination of deceptive and commercially interested research .	no_relation
+and there are genuine borderline cases .	it is reasonable to give its views greater weight than those of the smaller organization .	no_relation
+in the interest of promoting the companies ' commercial products [ 23 ] .	taking advantage of the ways in which these parallel institutions mimic legitimate institutions	no_relation
+for this reason , institutions may also be slow to investigate accusations of fraud ,	it is incumbent on me to note that i have published in frontiers journals on several occasions .	no_relation
+systems that assess expertise can be manipulated ,	the controversy surrounding beall 's decision indicates how difficult it is to make such judgments — even for professionals .	no_relation
+we hypothesized that the children , who were over the age of six at the time of collection , would have adult-like si interpretations .	we expected that the use of a training session and then the format of the question would guide participants towards evaluating pragmatic felicity over providing truth value judgments , and would result in adult-like interpretations .	elaboration
+this study is limited in its power and generalizability .	it serves as a reminder of the work that needs to be completed for the cross-linguistic study of si in particular and acquisition more generally .	evaluation
+bantu languages are not included in studies of acquisition often enough	despite the numerous languages in this linguistic grouping and the millions of people using them .	concession
+future studies need to include more participants and more items	to increase power .	purpose
+future studies should also include a larger age range of children	to document the age at which adult-like performance emerges .	purpose
+in the current study , the responses from two children were not included	because they responded the same way to every item through the training and all test items .	cause
+this is unlikely	as they said that even the first training item was said well .	evidence
+"and that "" yes "" was in some ways a default answer to be provided"	when having to respond verbally in a test context .	circumstance
+the cardinal numbers included in this study were only one through five	in order to avoid additional item variability ,	purpose
+these results provide valuable insight into si interpretation by chitonga-speaking children and demonstrate that pragmatic inference acquisition likely follows the order identified in previous research , but appears to be completed at a later age in this language .	albeit limited ,	concession
+we expected that the use of a training session and then the format of the question would guide participants towards evaluating pragmatic felicity over providing truth value judgments , and would result in adult-like interpretations .	significant differences were not observed between all and cardinal numbers or all and some .	no_relation
+in order to avoid additional item variability ,	5. conclusion .	no_relation
+digital humanities clinics -	leading dutch librarians into dh	elaboration
+in 2015 , an initiative was started to set up a dutch speaking dh+lib community in the netherlands and belgium ,	based on the example of the american communal space of librarians , archivists , lis graduate students , and information specialists	elaboration
+in essence , we want to teach our country 's librarians the ins and outs of dh	in order for them to take up their natural role of facilitating and supporting research and ideally become the research partner needed in dh projects .	purpose
+the aim of these clinics is to provide basic methodological competencies and technical skills in dh , for a diverse group of librarians , consisting of both subject and technical librarians with basic technical skills .	the content of these sessions should enable them to provide services to researchers and students , identify remaining gaps in knowledge or skills that they could address by self-directed learning and ( perhaps ) to automate their daily library work .	purpose
+and hopefully take up the challenge of finishing this professional development	by engaging with the dh community .	elaboration
+we follow a four step approach with a working out loud - principle ( williams , 2010 ) :	in order to design this curriculum	purpose
+get feedback from researchers on possible subjects ,	based on the knowledge and skills they feel librarians need ;	elaboration
+get feedback from librarians on possible subjects ,	based on already known gaps in their knowledge and skills .	elaboration
+with these in hand , we will design the curriculum of clinics ,	based on the method of ' constructive alignment ' ( biggs et al. , 2011 ) ,	elaboration
+by having researchers provide the lecture sessions ,	we hope to fuel the enthusiasm of the librarians with the inspiration of direct contact with researchers and to provide access to a network within and across universities .	purpose
+with these clinics , we hope to initiate a stream of dh activities in dutch universities ,	making access to support easier for new digital scholars .	purpose
+get feedback from researchers on possible subjects ,	lotte wilms lotte.wilms@kb.nl national library of the netherlands , the netherlands	no_relation
+the content of these sessions should enable them to provide services to researchers and students , identify remaining gaps in knowledge or skills that they could address by self-directed learning and ( perhaps ) to automate their daily library work .	based on the knowledge and skills they feel librarians need ;	no_relation
+replication in second language research :	narrative and systematic reviews and recommendations for the field	elaboration
+replication studies serve to test the reliability of the previous study 's findings .	when using the same materials and procedures as a previous study ,	condition
+they serve to test generalizability of the earlier findings under different conditions .	when altering specific methodological or participant characteristics of a previous study ,	condition
+one indication of the importance of replication is found in the 50 or more calls for replication research in the field of second language ( l2 ) research alone	( see references for 50 calls and commentaries in appendix s1 in the supporting information online ) :	evidence
+these concerns speak to the very core of science ,	raising fundamental questions about the validity and reliability of our work .	elaboration
+and these perceptions are thought to have caused , at least in part ( directly or indirectly ) , alleged low rates and a poor quality of published replication studies .	however , a perceived lack of prestige , excitement , and originality of replication plagues l2 research ( porte , 2012 ) , as it does other disciplines ( berez-kroeker et al. , 2017 ; branco , cohen , vossen , ide , & calzolari , 2017 ; chambers , 2017 ; schmidt , 2009 ) ,	cause
+however , a systematic metascience on replication research has not yet been established in the field of l2 research ,	leaving a poor understanding of the actual number and nature of replication studies that have been published .	result
+the narrative review considers challenges in replication research and is largely informed by commentaries and metascience from psychology , given that the cognitive and social subdomains of psychology are highly influential in l2 research , and also from education , another key sister discipline .	the narrative review is organized around four broad themes : (a) the quantity of replication research , (b) the nature of replication research , (c) the relationship between initial and replication studies , and (d) the interpretation and extent of reproducibility of the findings of initial studies .	elaboration
+the systematic review provides a synthesis of l2 studies in journal articles that self-labeled as replications .	to gain insight into these issues in the context of l2 research ,	purpose
+the systematic review provides a synthesis of l2 studies in journal articles that self-labeled as replications .	however , a systematic metascience on replication research has not yet been established in the field of l2 research ,	no_relation
+in some fields , a flourishing metascience , that is , the scientific study of science ( see munafò et al. , 2017 ) , has included syntheses assessing the quantity and nature of replication efforts , for example , in education ( makel & plucker , 2014 and in psychology ( makel et al. , 2012 ) .	for example , the instruments for research into second languages ( iris ) repository ( http://www.irisdatabase.org ) was established in 2011 and holds , at the time of writing , over 3,800 materials that can be used for replication , among other purposes , in l2 research ( marsden & mackey , 2014 ; marsden , mackey , & plonsky , 2016 ) .	no_relation
+""" no hands . """	""" cara , "" i say ."	preparation
+""" no ! "" she wails ."	""" pretty ! """	justify
+""" i was just looking around and thought she was right with me ,"	you know ?	justify
+chubby guy kind of hovers	until i get the lights away from cara	circumstance
+he grabs them and starts straightening them out and draping them back over the display .	and as soon as i put them on the shelf	circumstance
+mouthing sorry at the front cashier .	she 's kind of pretty .	evaluation
+she smiles at me .	nice big brother with retarded sister .	evaluation
+"i say , "" you want a cookie ? """	so to distract her	purpose
+so of course she wants a cookie .	mom has cara on a diet ,	background
+we 've got another fifteen minutes	before we have to meet my mom .	circumstance
+you 're supposed to do what it says .	except every time you get a match	condition
+she stops .	when we pass spencer 's again ,	circumstance
+""" uhhh , "" she says ,"	pointing to the store .	elaboration
+and she follows me ,	gulping and wailing .	circumstance
+""" what did you do ? "" my mom says"	when she sees us .	circumstance
+so i told her that i 'd take cara with me	while she bought her stuff .	circumstance
+and i had to take her out	but she kept grabbing stuff	cause
+""" ah , cara mia , do n't cry . """	she crouches down .	circumstance
+we trail out of the store ,	cara holding mom 's hand and sniffling .	elaboration
+trying to get that stuff in my lungs ,	it felt really weird ,	evaluation
+she 's got that white look around her mouth .	and by the time we pull in the driveway ,	circumstance
+""" i 'm going to have to take her to the emergency room . """	""" robert , "" mom says ,"	preparation
+it 's three something now .	mom checks her watch .	preparation
+joyce is always trying to be likable	and it gets on my nerves after awhile —	evaluation
+""" i 've got my cell phone"	"if you need to call . """	solutionhood
+""" can toph and len come over ? "" i ask ."	she sighs .	evaluation
+but no roughhousing .	"remember you have school tomorrow . """	motivation
+she opens the garage door	so i can get in .	purpose
+she turns back ,	watching where she 's going ,	purpose
+and she needs to get her hair done again	because i can really see the gray roots .	evidence
+cara is watching me through the watery glass ,	her mouth a little open .	elaboration
+"and now she 's upset . """	""" robert , "" my mom says , irritated ."	no_relation
+it 's three something now .	""" you ready to go back to see mom ? "" i say ."	no_relation
+""" she wanted to go in spencer 's , "" i say ."	trying to get that stuff in my lungs ,	no_relation
+you know ?	""" robert , "" mom says ,"	no_relation
+back out in the mall , cara is wailing , which could start an asthma attack ,	"remember you have school tomorrow . """	no_relation
+she 's got that white look around her mouth .	we 've got another fifteen minutes	no_relation
+and she hunches her thick shoulders .	""" no , "" i say ."	no_relation
+october is national magic month in the united states .	wednesday , october 9 , 2013	circumstance
+i remember going into hollywood magic and wanting that big red box with the dragons on it	and i did n't even know what it did .	concession
+that started me out on books	and i have amassed quite a few since then .	result
+do you think magic is alive as a viable form of entertainment today ?	october is national magic month in the us .	circumstance
+there are more magicians working today than ever before .	there will always be an audience for good magicians doing good magic .	cause
+because so many rely on the internet for everything	and they are n't reading the books .	restatement
+i have been to the jeff mcbride experience in eureka springs , arkansas , magic live in las vegas , the midwest magic jubilee in st. louis , the taom in dallas , the british ring convention in buxton , england and the magic circle in london .	after i was inducted as international president in phoenix in july ,	circumstance
+i am going to las vegas and los angeles next month , italy in november , back to las vegas in december , mexico in january , magi-fest in february , the winter carnival of magic in tennessee in march , eureka springs cavalcade of magic in march , and the ffff in april .	that 's as of now .	circumstance
+file photo of magician david gish displaying magic props for a young child .	image : paul budd .	elaboration
+wikinews spoke with william evans , president of the international brotherhood of magicians , about the current state of magic and what its future looks like in the world of entertainment .	do you travel much in your current role ?	no_relation
+moreover , seeing someone perform on the internet takes away the use of our senses , originality and imagination that reading and thinking about magic can produce .	anyone can become a monkey ;	no_relation
+the beverage was inspired by the santorum neologism coined in advice columnist dan savage 's column savage love in response to comments made by former pennsylvania senator rick santorum about homosexuality ;	"savage 's readers voted to define santorum as ; "" the frothy mixture of lube and fecal matter that is sometimes the byproduct of anal sex . """	background
+the santorum neologism has inspired satirical forms of parody , including this political cartoon by saturday morning breakfast cereal webcomic artist zach weiner .	2012 .	circumstance
+"stan commented on the creation of the santorum cocktail , "" when he was winning in the polls , i thought , ' ok , i 'll do a santorum ' . """	"regarding how long the beverage will be made available , stan remarked to the brooklyn paper , "" we 'll keep it around until he 's irrelevant . i hope he 's there the whole way "" ."	elaboration
+the main ingredients of the santorum drink include vodka of an orange citrus variety , baileys irish cream , and angostura bitters .	it is served in a cocktail glass and topped with godiva chocolate flakes .	elaboration
+troy patterson of slate magazine ventured over to pacific standard	to sample the new santorum cocktail at the bar .	purpose
+readers of the savage love advice column selected a new definition for the senator 's last name ,	and savage created a website spreadingsantorum.com to promulgate the spread of the phenomenon .	result
+""" to have a business allow that type of filth to be purveyed through their website or through their system is something that they say they ca n't handle ."	"i suspect that 's not true . """	evaluation
+pacific standard owner , jonathan m. stan , displays the santorum cocktail drink as a finished product at the bar . ( 2012 ) .	image ; pacific standard , provided by the owners .	elaboration
+"and we thought it would be interesting to try to create a delicious drink that mimicked the appearance of the dan savage meaning of "" santorum . """	santorum the person has been in the news throughout the primary season ,	background
+we do n't really remember .	it 's been around forever .	background
+it 's not for us to take a stand on any political issues .	we 'll leave that to the professionals .	elaboration
+we thought it was funny .	whether it is appropriate or not is another thing we leave to the pros to decide .	concession
+a few months ago .	when was the santorum cocktail first created ?	solutionhood
+bailey 's , orange vodka , bitters , and chocolate flakes .	what ingredients go in the santorum cocktail ?	solutionhood
+the ingredients are shaken and/or poured into a cocktail glass .	see the pictures .	elaboration
+did you think when you created it that the santorum cocktail would receive this news coverage ?	your santorum cocktail creation has already received media coverage from publications including ; the brooklyn paper , the new york times , jezebel , metro.us , edge on the net , and instinct magazine .	background
+not at all .	we were just trying to come up with a topical and funny new cocktail for our customers to laugh about and enjoy .	elaboration
+you 'd probably be having the cocktail at dessert time , so something sweet ; ice cream or pie .	what culinary dishes would you recommend that go well with the santorum cocktail ?	solutionhood
+is the drink popular ?	how many times do you suppose you 've served it at your establishment since its creation ?	restatement
+but we 're now pouring around ten a night .	we have no way to estimate how many times we 've served it overall ,	concession
+it is served in a cocktail glass and topped with godiva chocolate flakes .	do you think it was an appropriate form of satire for dan savage to popularize the definition of the santorum neologism created in his advice column ?	no_relation
+whether it is appropriate or not is another thing we leave to the pros to decide .	interview	no_relation
+""" to have a business allow that type of filth to be purveyed through their website or through their system is something that they say they ca n't handle ."	image ; zach weiner .	no_relation
+your santorum cocktail creation has already received media coverage from publications including ; the brooklyn paper , the new york times , jezebel , metro.us , edge on the net , and instinct magazine .	troy patterson of slate magazine ventured over to pacific standard	no_relation
+the beverage is priced at us $ 8.00 , and upon an order for it , the bartender will recount for the customer the definition of the santorum neologism .	but we 're now pouring around ten a night .	no_relation
+sarvis has garnered double digits in opinion polls for the 2013 virginia gubernatorial election , an unusual feat for a third party candidate .	the latest newsmax / zogby poll from late september placed him at 13 percent , 14 points behind republican party nominee ken cuccinelli , virginia 's attorney general , and 19 points behind democratic party nominee terry mcauliffe , the former democratic national committee chairman , with 24 percent undecided .	elaboration
+but also the only candidate who embodies both physically and philosophically the growing diversity of the commonwealth .	( i am mixed-race ( half-chinese ) and in an interracial marriage . )	justify
+i understand the issues and challenges facing virginia much better than the other candidates ,	because of my academic and professional background ,	evidence
+mcdonnell did well early in his term pushing back against senate democrats who wanted huge tax increases in response to major revenue shortfalls during the recession .	those early budget efforts are his highest achievements as governor .	evaluation
+more recently , he erred in accepting a transportation bill that had huge flaws and huge tax increases ,	rather than prioritizing spending and seeking more rational , efficient , decentralized transportation decision-making .	antithesis
+what do you attribute that success to ?	compared to previous third party candidates at the gubernatorial level , you have done exceptionally well in opinion polling .	background
+they are sick of the partisanship and nonsense and the total lack of substance in modern campaigns .	voters see the two major party nominees as exemplifying what is worst about their respective parties ,	elaboration
+voters who meet me and hear me speak know that i am sincere , know that i understand the issues deeply and have workable solutions , and know that i stand on principle against cronyism and corporatism and in favor of the rule of law and the public interest .	people like the fact that i stand for a virginia that is both open-minded and open for business .	justify
+how will you be able to implement your agenda	while dealing with a hostile legislature ?	circumstance
+there are precedents of independent governors dealing effectively with the legislature ,	and indeed a wise third-party governor can have greater effectiveness than a major party governor .	evaluation
+and the major party legislators will face changed constraints and incentives ,	meaning that much more is possible than many people assume , especially with strong leadership .	result
+he was incredibly learned and was a strong advocate for freedom and the rule of law .	he would be a libertarian today .	evaluation
+robert sarvis .	image : sarvis for governor .	elaboration
+virginia , highlighted in red .	image : huebi .	elaboration
+image : huebi .	voters who meet me and hear me speak know that i am sincere , know that i understand the issues deeply and have workable solutions , and know that i stand on principle against cronyism and corporatism and in favor of the rule of law and the public interest .	no_relation
+sarvis has garnered double digits in opinion polls for the 2013 virginia gubernatorial election , an unusual feat for a third party candidate .	what is the most important aspect of your background that voters should know about ?	no_relation
+working together with both republicans and democrats ,	robert sarvis .	no_relation
+on saturday , wikinews interviewed tina mckenzie , a former member of the australia women 's national wheelchair basketball team , known as the gliders .	mckenzie , a silver and bronze paralympic medalist in wheelchair basketball , retired from the game after the 2012 summer paralympics in london .	elaboration
+[ the spitfire tournament in canada ] was a really good tournament actually .	it was a tournament that i wish we 'd actually gone back to more often .	evaluation
+and so we went as the gliders team .	it 's quite a large canadian tournament ,	background
+cause that 's one of our problems really , to compete .	it costs us so much money to for us to travel overseas and to compete internationally .	elaboration
+it 's not the same .	no , it 's really not ,	restatement
+so it 's really important to be able to get as a many international trips throughout the year	to continue our improvement .	purpose
+but yes , spitfire was good .	we took quite a few new girls over there back then in 2005 , leading into the world cup in the netherlands .	elaboration
+then in 2006 we ended up fourth .	it was one of the worst world cups we 've played actually .	elaboration
+we just did n't play as well as we thought we would .	came fourth .	elaboration
+fired us up for the actual paralympics .	but you know what ?	preparation
+so you can come back home and revisit what you need to do and , you know , where the team 's at .	and all that sort of stuff .	restatement
+so it will be on the year before the paralympics .	unfortunately , they are talking about moving it	evidence
+the competition from the [ fifa ] world cup and all .	right .	evaluation
+tina mckenzie .	image : australian paralympic committee .	elaboration
+also see where all the other teams are at as well .	so it will be on the year before the paralympics .	no_relation
+unfortunately , they are talking about moving it	tina mckenzie .	no_relation
+and then in 2010 we just ... i do n't know what happened .	but we really need to be able to ...	no_relation
+it was decided that a collaborative online review process would be used	"to "" discover "" the microscopically small samples the capsule collected ."	purpose
+the project is called stardust @ home .	unlike distributed computing projects like seti @ home , stardust @ home relies entirely on human intelligence .	elaboration
+as always , the interview was conducted on irc ,	with multiple people asking questions .	elaboration
+can you explain more about it for us ?	some may not know exactly what stardust or stardust @ home is .	justify
+artist 's rendering of spacecraft stardust	image : nasa	elaboration
+"this is the first us "" sample return "" mission since apollo , and the first ever from beyond the moon ."	this gives a little context .	justify
+but stardust is also bringing back the first solid samples from the local interstellar medium —	basically this is a sample of the galaxy .	restatement
+this is absolutely unprecedented ,	and we 're obviously incredibly excited .	evaluation
+i should mention parenthetically that there is a fantastic launch video —	taken from the pov of the rocket on the jpl stardust website —	elaboration
+yes	[ see below ] .	elaboration
+this is a big challenge	because they are very small ( order of micron in size ) and are somewhere ( we do n't know where ) on a huge collector — at least on the scale of the particle size — about a tenth of a square meter .	cause
+to scan the collector in the cosmic dust lab in building 31 at johnson space center .	this is the ares group that handles returned samples ( moon rocks , genesis chips , meteorites , and interplanetary dust particles collected by u2 in the stratosphere ) .	elaboration
+"stardust @ home is a highly distributed project using a "" virtual microscope "" that is written in html and javascript and runs on most browsers —"	no downloads are required .	antithesis
+aerogel slice removed with an ultrasonic blade , showing particle tracks .	image : nasa	elaboration
+how many samples do you anticipate being found during the course of the project ?	great question .	evaluation
+the galileo and ulysses spacecraft carried dust detectors onboard that eberhard gruen and his colleagues used	to first detect and them measure the flux of interstellar dust particles streaming into the solar system .	purpose
+he estimated that there should be around 45 particles ,	"markus landgraf has estimated the number of interstellar dust particles that should have been captured by stardust during two periods of the "" cruise "" phase of the interplanetary orbit in which the spacecraft was moving with this wind ."	background
+i would n't be surprised	if it is quite different from that .	condition
+"it would n't be called "" research "" , would it ? """	""" if we knew what we were doing ,"	condition
+we expect that the particles will be of order a micron in size .	( a millionth of a meter . )	background
+they will be looking not for the particles , but for the tracks that the particles make , which are much larger — several microns in diameter .	when people are searching using the virtual microscope ,	condition
+i invite you to check it out .	just yesterday we switched over to a new site which has a demo of the vm ( virtual microscope )	background
+and that 's on the main stardust @ home website	[ see below ] ?	elaboration
+so ...	basically interplanetary trajectory .	no_relation
+to scan the collector in the cosmic dust lab in building 31 at johnson space center .	artist 's rendering of spacecraft stardust	no_relation
+great question .	highly recommended —	no_relation
+sunday , may 28 , 2006	yes	no_relation
+it is really two missions in one .	the galileo and ulysses spacecraft carried dust detectors onboard that eberhard gruen and his colleagues used	no_relation
+you know the pain and stress that comes with putting things off .	if you 're a chronic procrastinator ,	condition
+getting the motivation to do it is a different matter .	although you may have the desire to accomplish something ,	concession
+fortunately , overcoming your procrastination is easy to do	when you put your mind to it .	condition
+leave this article and complete that work .	if you have anything due right now , and you have n't finished it ,	condition
+make yourself an old fashioned to-do list with check boxes and everything .	yes ,	preparation
+break big activities into smaller bits	if necessary .	condition
+check off each of the items on your list .	then , as you work through your day ,	circumstance
+you will feel a growing sense of pride	as you visually monitor your ever-diminishing list of projects .	circumstance
+set time-frames for your items to be done by .	if necessary ,	condition
+re-evaluate your list halfway through your day	to rank your items based on highest priority .	purpose
+keep a notebook by hand	before you start your workday .	circumstance
+put it on a list and do it later .	do n't do it ,	antithesis
+tackle it first .	when you have a looming project that 's bogging you down and making you unproductive in other areas ,	condition
+make a list of small parts of it that you can accomplish today .	"if your "" big project "" is something that ca n't be done in one sitting ,"	condition
+but take steps now	do n't worry about completing the entire thing ,	antithesis
+you will be motivated to continue doing so ,	as you mark things off ,	circumstance
+"ask yourself , "" will this take me less than two minutes to finish ? """	whenever you are presented with something that you do n't want to do or would consider putting off ,	condition
+set a period of time to do nothing but work .	if you find yourself being pulled off into the depths of daydreams ,	condition
+and remove all distractions -	your phone , magazines , or thoughts of your attractive love -	elaboration
+chances are , you 'll get into a groove and keep working at a high pace	even when your frenzy time is out .	concession
+then you move on to the next one .	if you do n't finish the task in the allotted time ,	condition
+it forces you to take action ,	using this work arrangement ,	circumstance
+give yourself a brief break .	if you ca n't seem to focus and are working half-heartedly at your tasks ,	condition
+do whatever it is you 've been daydreaming about	so that the temptation is removed once you get back to work .	purpose
+just be sure to follow through with your deadline	rather than ignoring it	antithesis
+before you start your workday .	read a book ,	no_relation
+put it on a list and do it later .	do two-minute tasks .	no_relation
+create a timed work frenzy .	if you have anything due right now , and you have n't finished it ,	no_relation
+give yourself a break .	and do the duty you normally would push off for hours or days . [ 1 ] .	no_relation
+as you mark things off ,	keep a notebook by hand	no_relation
+before you start your workday .	even when your frenzy time is out .	no_relation

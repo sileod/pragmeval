@@ -1,0 +1,53 @@
+label	y	n
+Statement	s	33472
+Continuer	b	15013
+Floor Holder	fh	8362
+Acknowledge-answer	bk	7177
+Accept	aa	5898
+Defending/Explanation	df	3724
+Expansions of y/n Answers	e	3200
+Interrupted/Abandoned/Uninterpretable	%	3103
+Rising Tone	rt	3101
+Floor Grabber	fg	3092
+Offer	cs	2662
+Assessment/Appreciation	ba	2216
+Understanding Check	bu	2091
+Declarative-Question	d	1805
+Affirmative Non-yes Answers	na	1112
+Wh-Question	qw	951
+Reject	ar	908
+Collaborative Completion	2	841
+Other Answers	no	828
+Hold Before Answer/Agreement	h	792
+Action-directive	co	674
+Yes-No-question	qy	669
+Dispreferred Answers	nd	483
+Humorous Material	j	463
+Downplayer	bd	387
+Commit	cc	371
+Negative Non-no Answers	ng	351
+Maybe	am	349
+Or-Clause	qrr	345
+Exclamation	fe	307
+Mimic Other	m	293
+Apology	fa	259
+About-task	t	253
+Signal-non-understanding	br	236
+Accept-part	aap	219
+Rhetorical-Question	qh	214
+Topic Change	tc	212
+Repeat	r	208
+Self-talk	t1	198
+3rd-party-talk	t3	165
+Rhetorical-question Continue	bh	154
+Reject-part	arp	150
+Misspeak Self-Correction	bsc	150
+Reformulate/Summarize	bs	141
+"Follow Me"	f	128
+Or-Question	qr	127
+Thanking	ft	119
+Tag-Question	g	87
+Open-Question	qo	74
+Correct-misspeaking	bc	51
+Sympathy	by	11
+Welcome	fw	6

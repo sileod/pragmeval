@@ -1,0 +1,1248 @@
+sentence1	sentence2	label
+i can offer wheat or sheep?	or wood?	Alternation
+sorry	ok.	Acknowledgement
+me	either of you have sheep?	no_relation
+since you showed up today and all	we can restart.	no_relation
+wait	oh i can't	no_relation
+it sucks and it's stressful,	good.  well, good luck.	no_relation
+its not there nvmd	do you have all the resources?	Clarification_question
+when would be a good time for you guys to play the real one?	monday evening?	Q_Elab
+if not,	ok,	Acknowledgement
+my sheep for your clay, anyone?	got none :(	Question_answer_pair
+i have sheep	i need ore or clay.	Elaboration
+well done! 	i could see you were getting close	Elaboration
+jonathan.	sure.	no_relation
+yep,	thank you	Continuation
+i did!	now, let's get that pesky robber out of the way	Continuation
+i think it's between me and kieran for the extravagant prize,	not sure exactly how it works though	Contrast
+i can	i want wood though	Contrast
+evening!	it's so sunny, 	Contrast
+clay for wheat?	no	Question_answer_pair
+and it pays off :)	bye	Continuation
+i'll give you sheep for it?	your clay for my wood?	Clarification_question
+wow	i got nothing to do now though.	no_relation
+for ore perhaps?	jon ended their turn.	no_relation
+sorry	catanstrophe ended their turn.	no_relation
+clay preferably	could be	no_relation
+i'm repeatedly being distracted by css >_>	heheh	Comment
+page 9 lj	"""you can break an opponent's road by building a settlement on an open intersection"""	Elaboration
+notice*	have non,	no_relation
+same here,	but last time my bricks looked wierd	Contrast
+ok,	brick for wheat.	Elaboration
+are we stopping	well, thanks, it was a great game!	Question_answer_pair
+may as well finish it..	thanks for the game..	no_relation
+offer should have gone to everybody	ah! got it	Narration
+odd playing this two player.	happier with the interface now though.	Contrast
+thanks all, was fun!	good game :)	Acknowledgement
+same here...	so can't trade	Result
+anyone want to give me a clay or ore?	need wood though	Elaboration
+sure	sorry dmm	Comment
+a resounding no then	(i would do your sheep for wood,	Comment
+anyone got sheep for 1 wood?	no sry	Question_answer_pair
+(i am giving the wheat though...)	sorry	no_relation
+was about to offer ig a wood for an ore	if your up for it	Acknowledgement
+i want to build a settlement	j how did you resolve this problem	Clarification_question
+i mean if she has lots of ore	ya	Acknowledgement
+yep	it was a time he could do...	Explanation
+so now who rolls the dice?	it seems to have rolled for me	Question_answer_pair
+no clay either	none here either	Parallel
+no sheep here,	but not sheep	no_relation
+anyone got one for a sheep?	... from sabercat	no_relation
+me	hmmm	Acknowledgement
+oh.	i either didn't see that at all	Elaboration
+i have a clay,	trade for sheep?	Elaboration
+more ore, duncan!	huzzah	Acknowledgement
+ty euan :)	if someone is rich in it?	no_relation
+wood for wheat?	none	Question_answer_pair
+right,	i have to head off,	Elaboration
+i'll swap mine for wood,	see what inca wants	Result
+well,	maybe not the un.	Elaboration
+i don't have 2, sorry,	just the one	Elaboration
+ore?	none	Question_answer_pair
+see you sunday perhaps	not	Correction
+does anyone have a wood?	i hav wood	Question_answer_pair
+anyone want a sheep..?	no ta	Question_answer_pair
+i can any time tomorrow	okay :) will email you	Acknowledgement
+wheat then?	yeah sure, could do with some wheat	Question_answer_pair
+1 for 1?	or 2 for 2?	Alternation
+i'm guessing there's no point in putting a city next to a desert	not	Acknowledgement
+hmm so that development card could be a victory point	you're thinking out loud..	Comment
+the bank is so expensive!	trop cher	Acknowledgement
+sorry	i need wheat...	no_relation
+clay..	woodnsheep ended their turn.	no_relation
+anyone have clay for wood?	nope	Question_answer_pair
+i can give you a sheep and a wheat 	think about that :)	Comment
+(i only seem to ever have caly.	2 for 2?	Q_Elab
+will trade anything for wood	ig: one clay for one wood?	Q_Elab
+so... a surprise here too..	i hve built the buildings really badly in the beginning	no_relation
+ya,	resulted in a lot of 1:1 trading	Elaboration
+if you have a settlement on them	i thought that was the number ones	Contrast
+clay or wood rennoc?	unfortunately, neither one	Question_answer_pair
+sorry,	this is tough	Contrast
+thanks for a great game guys	later	Comment
+sorry..	grrr	Comment
+i hate those	yeah	no_relation
+thanks.	good game	Continuation
+oh. anybody have wheat or wood?	not going spare,	Question_answer_pair
+oh	lol	Comment
+nancy: any spare ore?	i am happy to trade skinnylinny	Question_answer_pair
+by the way, does anybody want a sheep? 	i'm looking for one wood.	Elaboration
+anything for wheat?	i only have wheat lol	Question_answer_pair
+thanks	i have three still to play	no_relation
+she left..	just us 2 now...	Result
+ore?	euan?	Q_Elab
+okay :)	hello all	Acknowledgement
+no	ugh	Acknowledgement
+nope,	i don't beieve a 4 has been rolled for some time	Comment
+my wood, you r wheat ideally	no can do,	Question_answer_pair
+anyone have wheat	brick?	Continuation
+i get booted way too often	gotta keep doing the typing test	Result
+sure	... from inca	no_relation
+erm...	unless the second game happens early it doesnt bother me...	Continuation
+sure	... from amycharl	no_relation
+no	no problem	Acknowledgement
+sheep any1?	im ok	Question_answer_pair
+lol	i was going to say, i'll give someone a wood for a brick.	Explanation
+anyhoo.	havent had clay in awhile	Question_answer_pair
+ good work :d	thats scary	no_relation
+you can plan things out better	when you're last	no_relation
+it's been on 30mins	lucky they were free tickets	Comment
+thank you	until then	no_relation
+depending on what you have	although i could offer you ore, rennoc?	Conditional
+yeah ok.	catanstrophe ended their turn.	no_relation
+anyone got ore?	would have had ore, but...	Comment
+sorry,	no clay :(	Explanation
+how about wood?	guess what i'd trade it for ;)	Q_Elab
+ore for brick/clay	sorry	Question_answer_pair
+not me,	nope	no_relation
+yup	game started.	Result
+before you can roll, maybe?	dmm has 4 resources.	no_relation
+it looks golden and wheaty from here	same here,	Parallel
+woo! settlement!	ha, congrats	Comment
+well done	thank you :)	Acknowledgement
+plan b it is.	:)	Comment
+got a few sheep already!	sorry,	Comment
+ok, rennoc, listen to me	don't give tomm wheat	Elaboration
+ok	skinnylinny ended their turn.	Result
+can anyone trade clay for ore	as in, i give you the clay	Elaboration
+so given the dice rolls, wheat.	or even two sheep!	no_relation
+i don't want to move the robber	crap,	no_relation
+anybody willing to give me a wood?	i can trade clay or ore for it	Elaboration
+a wood?	no	Question_answer_pair
+but i will have to go	the meeting is 30min	Background
+ash will be back, i think.	does the game finish when one ends?	Clarification_question
+if we dont add time	i could play till then though!	Conditional
+i think the plan was to just count 3 player...	hmm	Acknowledgement
+anyone got ore for wood?	nope	Question_answer_pair
+nice playing with you!	nice playing :)	Comment
+nope.	i think i'd rather hang on to my wheat i'm afraid	no_relation
+anyway, good game guys.	what happens now? do we play more?	Result
+ah...	thanks	Continuation
+i only have food	oh i see now )	Acknowledgement
+also, anyone got wheat?	i wish	Question_answer_pair
+not that	"just no really clear thing to say ""trade successful"""	Elaboration
+anyone want wheat?	cheshirecatgrin made an offer to trade 4 wheat for 1 clay from the bank or a port.	Result
+cool :)	nareik15 ended their turn.	Result
+got ore or wood?	wood	Question_answer_pair
+it's wood	want clay?	Q_Elab
+oh sorry	agnes rejected trade offer.	Result
+i am giving wood for ore	william ended their turn.	Result
+i think	we want a 7	Elaboration
+hey guys -	i have a meeting in 25min	Continuation
+any advance on that?	bah.	no_relation
+oops	... from ljaybrad123	no_relation
+being called laura is odd :p	sorry. what do you want to be called?	Clarification_question
+how long has it been,	about 15 minutes?	Elaboration
+anyone?	i'll do that	no_relation
+if you have it...	i appreciate the economics :d	Elaboration
+really easy to miss,	i did that too.	Result
+go ahead!	have fun!	Comment
+i dont have any sheep	ok,	Acknowledgement
+me and aria are near 10	ryt	Acknowledgement
+any clay this time?	next time there's a 5!	no_relation
+yeah	4 -> 1	no_relation
+am quite happy to give 2 for one, 	or even 3 for one for wheat	Alternation
+after all that - anyone else got a spare wheat kicking about?	not after that :-)	Question_answer_pair
+yeah,	but you get 4 each time it gets rolled,	no_relation
+great	i'm fine for wheat at the mo	no_relation
+aargh! my precious ores	delicious	Comment
+but mine is very expensive :)	gimme more	Result
+:) i'll give 2 clay for 1 wood	sorry	Question_answer_pair
+which would have been very helpful	anyway, was a pleasure,	no_relation
+will do.	ok,	no_relation
+a little non-intuitive, i feel	matches the rest of the interface then :)	Acknowledgement
+sorry again, got plenty sheep	hmm okay then	Acknowledgement
+got clay?	nope	Question_answer_pair
+i can give clay or ore	i have wheat	no_relation
+please only start the game when all four participants are there	ok	Acknowledgement
+anyone have sheep or wheat to trade?	nareik15 ended their turn.	no_relation
+i played awful tonight	indeed, if we're counting that	no_relation
+i can't see the text in the speech bubbles	which speech bubbles?	Clarification_question
+settling works for all	hmmm	Acknowledgement
+oh i have wheat,	mmm	Comment
+what do you want for the ore?	wood?	Question_answer_pair
+i have ore not wheat	sorry bout that	Comment
+i'll give 2	two ore for one sheep?	Clarification_question
+okay,	anyone has sheep?	Result
+anyone got a wood?	sorry needed	Question_answer_pair
+anybody with clay now?	how about sheep then?	Alternation
+i'm out of sheep, i'm afraid -	ah,	Acknowledgement
+i'm after wood..	or sheep	Alternation
+anyone give me wood for ore?	nelsen made an offer to trade 3 ore for 1 wood from the bank or a port.	Result
+yep	cool.	Acknowledgement
+or a sheep for something?	ok	Question_answer_pair
+awesome,	thanks	Continuation
+if your up for it	you get two ores	no_relation
+my internet just reset itself twice	glad to see it now allows you back in	Continuation
+anyone got one for a sheep?	or another wood...	Alternation
+it's been on 30mins	i'll speak to markus about this 5th person who doesn't email	Continuation
+true	nah nothign,	no_relation
+anyone got clay or wood for wheat?	i'm fresh out again	Question_answer_pair
+so, i need wheat.	is there anything someone would want?	Elaboration
+*sigh*	anyone wants any number of sheep?	no_relation
+yes	!	Comment
+what happened?	monopoly	Question_answer_pair
+i dont know	email markus?	Q_Elab
+anyone got wheat and want sheep or clay?	sparkles made an offer to trade 3 sheep for 1 wheat from the bank or a port.	Result
+but f wheat	that's the spirit	Comment
+if anyone wants to trade it for wheat?	that i can trade for wheat	no_relation
+i don[t need sheep though	don't need sheep	Correction
+anyone want a sheep..	no thinks	Question_answer_pair
+anyone got clay?	lol	no_relation
+i have no clay	sigh :(	Acknowledgement
+oksounds good	did you get the trade?	no_relation
+not me,	no.	no_relation
+oh?	i just got an email about winning a competition for movie tickets	Question_answer_pair
+this die is not in my favour tonight....	we have 4 games laura,	Comment
+ah.	no joy?	Continuation
+any chance of a wood?	na	Question_answer_pair
+would eiter of you trade ore for wheat and/or wood	nope	Question_answer_pair
+when text is black	you can only buy	Conditional
+bye all	bye, i'm probs going to go too!	Comment
+let's do the game without carina on monday?	but yeah weds and thurs are both fine for me for our one	Question_answer_pair
+i have no resources now :(	dont think ive had clay since the begining of the game	no_relation
+anyone have clay for wheat?	no	Question_answer_pair
+my inlaws decided to dro by	ghettoette ended their turn.	no_relation
+same.	didn't notice at first.	Background
+soon, i shall have new zealand.	and then we'll giggle, manically.	Narration
+we better wait for markus	before we do anything	Conditional
+particularly for a brass player	i don't know if you know john field.	no_relation
+nope neither	kersti ended their turn.	no_relation
+catanstrophe, didn't that happen to you last game, too?	hmm	Question_answer_pair
+if its too late for you	thats fine	Conditional
+no idea,	ig ended their turn.	no_relation
+yes?	no?	Alternation
+can i get a sheep?	sure	Question_answer_pair
+no....	k	Acknowledgement
+bot got wheat	sorry, 	Contrast
+cool	end turn if you're done	no_relation
+so	amy said she can do tomorrow night	Continuation
+cool	see you then	Result
+2?	no thanks	no_relation
+anyone have wheat for ore or sheep?	i need ore yes	Question_answer_pair
+~looks at j and j~	i can do that -	Question_answer_pair
+z	sorry,	Explanation
+i really need to leav	sorry	Comment
+anyone want wheat?	after you move the dude	Question_answer_pair
+id love to build omething :p	ljaybrad123 ended their turn.	Sequence
+e/j?	fresh out :/	Question_answer_pair
+clay to spare? :)	yup	Question_answer_pair
+http://www.youtube.com/watch?v=agskrc7dgcy	like it	Comment
+have no clay.	oh no	no_relation
+here	i can do it	Elaboration
+not too bad thanks,	yourself	Continuation
+this is war :d	damn right	Acknowledgement
+i was rather rich in wheat	but it was a splendid battle :d	Contrast
+ahhh awesome	no problem :d	no_relation
+i'd like wheat?	i have clay	Elaboration
+giving clay for sheep	not got any, sorry	Question_answer_pair
+nareik??	do you have any wheat	Q_Elab
+i have spare clay	sorry	Question_answer_pair
+have u moved the robber?	i thought i had,	Question_answer_pair
+i'll take a wheat for an ore	i didn't	no_relation
+how much?	i have four...	Question_answer_pair
+can i get someone's clay for a wheat?	this is a long game guys....	Comment
+um	yes,	Question_answer_pair
+skinnylinny did you want ore or wood?	i wanted one ore	Question_answer_pair
+yeah lol	i'm clayless, apologies	Correction
+well i'll probably see you then!	sound good :)	Acknowledgement
+ccg so wealthy!	so much clay	Acknowledgement
+hmmm. does anybody have wheat?	i can give sheep.	Elaboration
+anyone has ore? :d	nope... wood?	Question_answer_pair
+e/j?	i'm repeatedly being distracted by css >_>	no_relation
+so you're not stuck all the time	good game :)	no_relation
+ok,	1 wheat for 1 sheep	Elaboration
+ah yes, i had been trying to say that i would've needed 2 wheat,	but now i've changed my plan anyway	Contrast
+please don't take that	sparkles ended their turn.	no_relation
+think i lose!	yeah	no_relation
+don't bust my bubble	ummm, no.	Correction
+ok,	thanks	Acknowledgement
+...no,	sorry	Comment
+i got wood and sheep	oh ok	no_relation
+and our own game wed/thur?	sorry	no_relation
+ok	will do	Elaboration
+well, i am going to have to go in 5-10 mins,	so before i do does anyone want any of my resources	Result
+i'd like wheat	i could offer clay	Elaboration
+sad face.	cheshirecatgrin ended their turn.	Result
+can anybody give me a couple of wheat?	i'll give clay in return	Elaboration
+nope	i'll do brick ore late	no_relation
+noooooo!	an ore	no_relation
+want to trade for the ore...	sure	Acknowledgement
+kerching	wood? 	no_relation
+^^	ljaybrad123 ended their turn.	no_relation
+not any more!	sorry,	Comment
+1 ore for 1 clay?	ok	Question_answer_pair
+i played awful tonight	that crossing was unlucky	Comment
+anyone want a wood or brick for a wheat?	i'll give a wheat for a brick	no_relation
+i need 2 sheep...	what do you want for them?	Q_Elab
+so you can negotiate on the fly	rather than just reject	Continuation
+ugh	that hurt	Elaboration
+i can be generous with sheep or wheat	gramos ended their turn.	Sequence
+anyone have a clay to spare?	i have wood, wheat and sheep	Elaboration
+people got wood or clay?	what are you offering?	Q_Elab
+anyone want a sheep..?	no	Question_answer_pair
+9 nooo!	lol	Comment
+don't go to vegas	and play craps :d	Continuation
+wud u rather wheat or wood?	for a clay?	Elaboration
+i mean, using your original nickname	you'll have to log in using your original nickname	Elaboration
+from me	i lost it	Elaboration
+sorry i has wood	ok	Acknowledgement
+who are we waiting on now?	:)	no_relation
+most german/austrian composers from the 18th/19th centuries.	i particularly like wagner and bach.	Elaboration
+yay!	well done :)	Acknowledgement
+robber!	uh oh,	no_relation
+ore?	need mine,	Question_answer_pair
+omg	none to give,	no_relation
+lol	no idea	Continuation
+does anyone have any sheep, 	no sheep, sorry	Question_answer_pair
+i guess i might trade for sheep	i will give a sheep for an ore?	Q_Elab
+haha i see	ig ended their turn.	Result
+raef you wanna trade some ore?	actually nevermind.	Correction
+anyone has ore? :d	yea,	Question_answer_pair
+so do you want the clay or the sheep?	clay	Question_answer_pair
+congrats gramos	hahaha	no_relation
+it just seems	considering ghetto has 4 points on ore with the port and 2 soldiers	Background
+yeah!	hope you win the one against duncan and matt!	no_relation
+what do you want?	sounds good..	no_relation
+don't have me	that was hate, btw, not have	Correction
+i know	lol	no_relation
+hi there :)	shall we start?	Clarification_question
+sry	ok	no_relation
+gah, lost four resources because of the robber	sorry	Comment
+i can't, i'm afraid	not tomorrow, anyway	Elaboration
+happens sometimes	joel ended their turn.	no_relation
+i'd suggest a price,	if they don't respond,	Continuation
+ok	so what do we do now?	Clarification_question
+anyone got wheat?	i'll give wood or clay	Elaboration
+:)	thanks	no_relation
+sheep*	not your fault	no_relation
+i can give brick to someone who will part with wood...	gramos ended their turn.	Result
+can i get a clay from someone?	offering wheat or sheep	Elaboration
+ i'm not as sold on this trade 	but i'll hear you out	Contrast
+where do we go	to get our compensation?	Continuation
+now vice versa,	so me again	Result
+i'd definitely cost up lost earnings	and try and get a settlement	Continuation
+amy, can you trade clay?	i only have one and i want it,	Question_answer_pair
+interested?	sorry	Question_answer_pair
+yeah	but it's not ideal	Contrast
+ok	trade with bank i think	Question_answer_pair
+i'd like a wheat.	cant' do	Question_answer_pair
+hitting quit?	ok have a good weekend guys.	Question_answer_pair
+ok	rennoc1 ended their turn.	Result
+but should be there most of wednesday.	any particular time you'd prefer?	Clarification_question
+i'd like a wheat.	zorburt ended their turn.	Result
+thanks	sorry.	no_relation
+anyone got a sheep?	meh.	Comment
+i'm afraid not	oh well, maybe next time!	Acknowledgement
+eh?	i just cant buy anything....	Comment
+good game.	thanks, guys	Acknowledgement
+hi duncan!	how's things?	Continuation
+okay :d	btw... originally, i was offering 3 clay..	no_relation
+anyone got any wheat?	yes, but wont trade	Question_answer_pair
+anything else?	sorry	no_relation
+ill take wood	dmm ended their turn.	no_relation
+ore?	or anything really except wheat	Alternation
+are we still waiting for one more?	yes, the two guys from yesterday said they could	Question_answer_pair
+anyone want to give a brick for wheat?	o brickn	Comment
+we've had about half the rolls as sevens	7 is the most likely to be fair	Comment
+no worries	i will need to be gone about 1815	Continuation
+i've got an ore	1 for  1?	Q_Elab
+id give u clay for ore?	sure	Question_answer_pair
+i don't think i can afford to make any trades with you in this situ	haha, at the risk of being rude,	Background
+damn...	haha	no_relation
+raef: give two ore for 1 what?	wood	Question_answer_pair
+ok then	and another on thursday?	Continuation
+does anyone have sheep?	yeah ok.	Question_answer_pair
+will the game remove him?	you two just continue	Question_answer_pair
+will you trade for wood?	no clay	Explanation
+i want clay	we all do!	Comment
+usually we're all desperately wanting clay	so true	Acknowledgement
+nice doggy	anyone got wheat?	no_relation
+i think	yeh it did	Acknowledgement
+i was going to say, i'll give someone a wood for a brick.	i'll do that	Question_answer_pair
+if he doesn't turn up by then	game started.	no_relation
+so does anyone have any clay or ore?	i got ore	Question_answer_pair
+anyone got sheep they want to trade for clay?	j made an offer to trade 4 clay for 1 sheep from the bank or a port.	Result
+haha i ended up getting a wood on that roll anyway	typicale !	Comment
+anybody with a wheat?	i can offer clay	Elaboration
+if i get more clay,	perhaps...	Conditional
+and it's least valuable resource	yeah	Acknowledgement
+sheep or wheat?	one for one doesn't really work for me, sorry	Question_answer_pair
+d'oh :(	shouldn't they be paying,	no_relation
+so i can't offer clay,	but im not getting any :0	no_relation
+ja	wood?	Q_Elab
+ouch well played	see you next time	Comment
+i fancy another	can offer a range of items	Continuation
+just 1	i'll give you a sheep or wheat?	Q_Elab
+sheep.	don't have any of those.	no_relation
+good roll that	thanks	Comment
+i was going to spend some last turn,	well	Comment
+i have ore	and will trade it for anything else :)	Continuation
+i need an ore...	what are you offfering?	Q_Elab
+sorry	unlike last one :)	no_relation
+ah well	ig ended their turn.	Result
+let's hope william finds us well	i think you can reset	Continuation
+:)	well im her now!	no_relation
+i have sheep -	swap for wood?	Elaboration
+will anyone give me wood, wheat or sheep for clay or ore? :)	nope :)	Question_answer_pair
+i dnt have wood	i have wood	Contrast
+i'll give you a wheat for the ore?	i'm after wood	Question_answer_pair
+how do you trade with the bank?	'trade with bank/port' button,	Question_answer_pair
+need sheep	i have sheep	Question_answer_pair
+anyone want to trade..	i'm after ore	Elaboration
+lol	insane,	Continuation
+what do you want for them?	can you trade for 3 clays	Q_Elab
+sure	i don't have any brick.	no_relation
+anyone got wheat or ore	sorry. :(	Question_answer_pair
+it would be nice to be able to buy something other than development cards...	want to trade?	Q_Elab
+l	no ta	no_relation
+anyone want a clean sheep?	hahahah	Comment
+you've hit a seam	delicious ore!	Comment
+will stop trading	you have 10 cards!	no_relation
+ok	set it up	Result
+so let me add that to the screenshot figures...	haha	Comment
+a few weeks ago she said she was away travelling somewhere, and that we could play without	ok,	Acknowledgement
+cheers	thanks	Acknowledgement
+oh you want wood?	sure	no_relation
+you want a sheep?	i mean, nine resources,	no_relation
+clay?	nope,	Question_answer_pair
+we can't do it with three...	sigh	Comment
+pas de problems ;)	my french not so good	Comment
+that's not as handy or as sinister as it sounds	still cooler than being a wheat baron	Contrast
+anyone have clay?	i have sheep and wood	Elaboration
+wood?	maybe sheep	Question_answer_pair
+skinny, give me clay for ore?	incredible!	no_relation
+anyone got wheat or ore	i have ore now	Question_answer_pair
+anyone willing to give up wood or clay?	i have wood to spare	Question_answer_pair
+oh come on	ok	Acknowledgement
+so your complexity is lost on me :)	i have no clay	no_relation
+if you are still offering?	i could do with a sheep,	Conditional
+i have no wood, sorry	haha nevrermind then	Acknowledgement
+anyone can trade wheat and ore for a combination of sheep and wood?	um, nope.	Question_answer_pair
+aha!	yey	Comment
+how many games do we have left to play then?	do we all have to play four?	Clarification_question
+for a sheep	for an ore?	Q_Elab
+no idea,	but he should go away for good!	Contrast
+lots of wood	anyone fancy any?	Result
+i need clay too	no ore sorry	no_relation
+has anyone got a sheep,	i can trade wheat or clay	Elaboration
+tomas, any clay??	no clay :(	Question_answer_pair
+you get two from the bank, i think	raefbrisbin has 2 resources.	no_relation
+anyone want a sheep..	i'm after ore..	Elaboration
+and i'm holding on to it,	how many do you need	no_relation
+euan bagged a bit	what's up?	no_relation
+ok,	fine	Continuation
+:d	hehe	no_relation
+hey, giving wheat/sheep for wood	both?	Q_Elab
+sorry for getting your twice in a row there!	it's only natural to go for the player in front though	Explanation
+anyone got more clay?	sry	Question_answer_pair
+or 1 ore for 1 sheep/wheat?	3 quick no's will suffice :d	Comment
+:)	you can never throw a 1 with 2 dice	Explanation
+oooh	1 for 1?	Elaboration
+and watch it please!!!	no	no_relation
+ty close game.	not rolling a 7	Elaboration
+we'll be done before then surely	yeah,	Acknowledgement
+does anybody have wheat?	nope,	Question_answer_pair
+gg	i'll send another update	Continuation
+how about a wood then?	clay or sheep are my primary desires	Question_answer_pair
+i'd love clay, too.	i can give sheep or wheat...	Elaboration
+yo...	yo somdech..	Acknowledgement
+gramos - are you willing to trade out that brick?	yeah,	Question_answer_pair
+anyone got sheep??	no, sorry	Question_answer_pair
+anybody have wheat?	nope	Question_answer_pair
+not until like the 26th of june	i'll be available again from the 14th of june	Continuation
+i can give you a wood.	for a wheat?	Elaboration
+i thought catan ended when someone got 10pts	you have 9	Contrast
+okay, can anyone give me clay?	ig, on your turn	no_relation
+i can give clay or ore	sure thing	no_relation
+i need a clay	if that's what you mean?	Clarification_question
+see you all next week	good game :)	no_relation
+or put done	because you dont have the resources	no_relation
+any chance of a wheat?	wood?	Alternation
+jumped too quickly on the legendary line.	mmm	no_relation
+yeah that's bizarre	well, looks like i'll be seeing you all next season!	Comment
+anyone got clay?	woodnsheep 1 point from winning	Comment
+and fill that out tonight.	 good game, all!	Continuation
+anyone got wood?	for what	Q_Elab
+i'll give you a wood for 2 ore?	ok	Question_answer_pair
+but looads of 6's no 8's :p	also 7's,	Parallel
+sigh	it's a pity	Elaboration
+for wheat	2 wheat?	Q_Elab
+did you manage to play the turn?	sorry guys... its crazy, 	Question_answer_pair
+i'll be 5-10 minutes	no worries	Acknowledgement
+can do wood for wheat	that would be good	Acknowledgement
+right,	thanks cardlinger :)	Continuation
+it was a much more balanced season	indeed, and i've enjoyed the season.	Acknowledgement
+odds that people remember?	zorburt joined the game.	no_relation
+well played :)	well played tomas :d	Elaboration
+i have a friend who has a house rule:	"""no sexual favours for in-game advantages"""	Elaboration
+wood for wheat?	and sheep for ore?	Continuation
+make it two?	but then i can get them	no_relation
+and oddly prefers veg to meat :d	great minds !!	Comment
+hey, i want wood as well	offering 2 ore for one wood	Result
+i don't care who wins now,	we get to playyyy!!!	Explanation
+looks like it.	someone want to drop her an email?	Q_Elab
+?	whose turn is it?	Elaboration
+please don't take that	thanks!	no_relation
+anyone want ore for their wheat?	no wheat	Question_answer_pair
+how much do you have?	1	Question_answer_pair
+anyone else?	i'd hunger for another	Explanation
+i'll load up gmail	uh ohh	Comment
+anyone????	?	Clarification_question
+i know they are in high demand too	i appreciate we're all sheepless	Elaboration
+sorry,	you're basically at 7 points	Explanation
+ah, shame	skinnylinny has 5 resources.	no_relation
+would make a change	i have a new computer,	Continuation
+when joel goes?	tbh	no_relation
+cant help her win	probs will anyway :(	Contrast
+i can give you a sheep	wood?	Continuation
+can i get a sheep for a wood?	yes here	Question_answer_pair
+anyone want wheat?	i'm drowning in it ...	Elaboration
+why there is a contour robber on wood-2	ah,	no_relation
+none of those, sorry :(	y'all have a lot of resource.	no_relation
+sorry caught up	sorry no	no_relation
+i'm after wood	... from joel	no_relation
+no	thanks.	Comment
+wow, nice roll rennoc :d	sorry tomm	no_relation
+i'd like a clay	woodnsheep ended their turn.	Result
+if he's not here in 7 mins	sigh...	Comment
+"i guess you're ""close"" to winning, too!"	they all say close to winning	Contrast
+there is a little check box	with three colors	Continuation
+so kittles ile giv u clay?	please	Question_answer_pair
+ore	... from raefbrisbin	no_relation
+or tell us	:)	no_relation
+i have sheep	i have wood...	Alternation
+you're the only person	skinnylinny made an offer to trade  for  from the bank or a port.	Sequence
+william?	oh, sorry no.	Question_answer_pair
+'8noms oatcakes*	mmmmm	Comment
+anyone have wheat?	ljaybrad123 ended their turn.	Sequence
+yeah im tempted	lol i don't blame you/....	Continuation
+is it stuck?	the arrow is on me	Question_answer_pair
+hello	who are you two in the emails again?	Clarification_question
+yeah,	ore's worthless	Elaboration
+clay/ore for wood?	i have no wood, sorry	Question_answer_pair
+anyone want to trade sheep for wheat?	my resources all got stolen...	Question_answer_pair
+anyone have wheat?	loads	Question_answer_pair
+what?	i literally lost	Question_answer_pair
+what are you offering?	i can give you a sheep?	Question_answer_pair
+making cookies for a bake sale tomorrow	that sounds rather pleasant!	Comment
+anyone got one for a sheep?	na	Question_answer_pair
+oh wait,	want 2 ore	Question_answer_pair
+"press ""sit down"" though"	are you here kittles?	no_relation
+anyone got ore for sheep/wheat?	nope	Question_answer_pair
+wood for clay anyone?	got 3 clay, sorry	Question_answer_pair
+nope	i haven't got any new resources for ages!	Elaboration
+lol 4 nooo!	anyone got shee?p	no_relation
+i have sheep	na...	no_relation
+well played aria	great game,	no_relation
+or for 1 ore?	maybe next round	Question_answer_pair
+who bloack my 8??	not me bro..	Question_answer_pair
+any ore for sale?	i can sell an ore for wood or wheat	Question_answer_pair
+lovely	thank yuo	Comment
+ok,	3 times 7 in a row	Continuation
+for clay?	yep	Question_answer_pair
+do you have ore?	how about wood?	Q_Elab
+i am rabbit sitting for my friend at hers	ah! not good!	Comment
+well it would be a shame to exclude you,	since you showed up today and all	Explanation
+well played :)	ok thank you for a game	no_relation
+hey lj!	hi :d	Acknowledgement
+ok,	can anyone spare wood or ore?	Continuation
+maaaaaaaa	enjoy my sheep	Continuation
+sheep	sorry,	no_relation
+i got nothing to do now though.	give it back then. :)	no_relation
+anyone want to give me clay?	na...	Question_answer_pair
+oh yeah!	the games have to be played by when?	no_relation
+i was going to say,	do u have ore?	Q_Elab
+nice..	ztime ended their turn.	no_relation
+it would be great if we could have another one before friday	when is you you guys are away?	Q_Elab
+wot du wnt?	wheat	Question_answer_pair
+yeah, 	there we go,	Narration
+no sry	gotwood4sheep ended their turn.	no_relation
+does anyone have brick or wood to trade with me?	i have wheat and ... sheep.	Question_answer_pair
+i do	haha, surprisingly enough, same here	Parallel
+one of each?	sorry, that doesn't get me anywhere	Question_answer_pair
+anyone want to trade ore or sheep for these wheat?!	nope	Question_answer_pair
+i could wood or *ahem* sheep	oh one for one is fine	no_relation
+or a sheep for something?	you want a sheep?	Clarification_question
+i'll be available again from the 14th of june	cool, shouldn't be a problem then	Acknowledgement
+that sounds okay	and i dont have much time ...	no_relation
+anyone have some wood to spare?	for clay...	Question_answer_pair
+i cant do thursday....	*tuesday	Correction
+didn't know that was a thing	i think it's over 7?	Clarification_question
+do you have any wheat or sheep for ore or wood?	can you give 2 wood for 1 sheep	Q_Elab
+hey, i know where you can get some good wheat	but seriously, want to trade for some wheat?	Continuation
+ok 1 sheep	woodnsheep ended their turn.	Sequence
+i played the card,	moved the robber	Narration
+again	it is painfully close to all the other buttons	Explanation
+hi, great.	go ahead.	Result
+i have ore	sparkles would you like sheep or wheat for ore?	Q_Elab
+anyone want any wheat?	sorry	Question_answer_pair
+up north	catanstrophe has 0 resource.	no_relation
+anything else is fine	wood?	Q_Elab
+yeah seriously	catanstrophe made an offer to trade 4 wheat for 1 ore from the bank or a port.	Result
+yeah,	indeed!	Continuation
+yes!	for sheep?	no_relation
+it might be best	zorburt has 2 resources.	no_relation
+so i'm quite proud of him too.	indeed, that's a problem	no_relation
+your wheat for my sheep,	:)	no_relation
+back from yiin	"""ehh sry "	no_relation
+that sucks	rennoc1 ended their turn.	no_relation
+clay and ore?	nope,	Question_answer_pair
+will anyone give we a wood for a clay?	no wood	Question_answer_pair
+i'll give you a clay	ah	no_relation
+anyone want clay?	sorry	Question_answer_pair
+every time a 7 gets rolled,	you had more than 7 reseources	Explanation
+gg all	how many +1 did you have inca?	Clarification_question
+now go eagles!	haha wooo!	Acknowledgement
+anyone want some sheep?	nope, 	Question_answer_pair
+anyone have wood?	i have ore or clay	Elaboration
+methinks this game is dead and over unless ccg rolls a 7 :/	don't we all	no_relation
+nnnoooo	:)	Comment
+clay or sheep are my primary desires	alright a clay	Acknowledgement
+9 nooo!	ore, sheep or wheat to spare?	no_relation
+wait	something ewird happened	Explanation
+hey, just spectating if you're ok with that	hi!	no_relation
+wheat	:)	Comment
+but mine is very expensive :)	clay made of gold	Comment
+i don't have wood	haha i see	Acknowledgement
+ok?	i have no clay or wheat, i'm afraid :-(	Question_answer_pair
+i'm outta wheat,	sorry	Comment
+but wheat is nice too	your choice	no_relation
+2 wheat for 2 wood?	ljaybrad123 rejected trade offer.	no_relation
+a resounding no then	tyrant lord ended their turn.	Result
+alas, alack, i am stolen from.	twice!	Elaboration
+and apparently you cant put the robber on the other of the same number	weird	Comment
+we both have,	what's on offer :)	Q_Elab
+u nd wood?	no, i need clay or ore	Question_answer_pair
+i literally lost	hmmmm, right, wonder if we can get another game done tonight?	Narration
+but you have ore??	i got	no_relation
+robber and monopoly	haha	Comment
+yup, just hurry everyone...	ill try	Acknowledgement
+sorry...	nope	no_relation
+:d	well... you did it!	Elaboration
+sorry dmm	don't want this bad boy to end just yet	Explanation
+i was after wheat..	yer	no_relation
+anyone wants to trade wheat for wood	no	Question_answer_pair
+hopefully	you too	no_relation
+clay, anyone?	nope	Question_answer_pair
+for 2 wheat?	hard bargains at this table!	Comment
+can i get a clay from someone?	sorry	Question_answer_pair
+that's 4 in one roll!!	anyone have wood or wheat for clay?	no_relation
+i have 2 clay	ok	Acknowledgement
+ok, so we could do with playing all games before thursday	taht could be tough	Contrast
+i can give you clay or wood	clay please	Question_answer_pair
+then4 player?	indeed, if we're counting that	Question_answer_pair
+yeah 	it was horrible on the weekend, 	Elaboration
+no ore sorry	no ore in here either	Parallel
+it was a much more balanced season	yep	Acknowledgement
+sorry	no can do,	no_relation
+so,	still no sheep to trade?	Continuation
+okay, anyone will trade wheat?	sorry, nope.	Question_answer_pair
+and watch it please!!!	sorry	Comment
+hey]	is there anyone else??	Clarification_question
+so... a surprise here too..	what happens now? do we play more?	Clarification_question
+thank-you	!!	no_relation
+yes	2 wood?	Result
+you can continue even if one player leaves	it's up to you	Elaboration
+skinnylinny : trade wheat	2x ore	no_relation
+nop..	ok	Acknowledgement
+agnes, would you swap clay for wood?	errr….which way around?	Clarification_question
+you must have been close	yup	no_relation
+dont have that!	charlotte ended their turn.	no_relation
+wood	i don't have any, sorry. never mind.	Question_answer_pair
+ok,	i'll leave then	Continuation
+clay for wheat	1 for 1?	Q_Elab
+anyone got any ore?	havent had it in awhile	Question_answer_pair
+have done	okay, 2 more minutes	Acknowledgement
+want some clay?	please	Question_answer_pair
+anyone have wheat?	heh nope	Question_answer_pair
+http://www.youtube.com/watch?v=agskrc7dgcy	i'm a bit weird when it comes to music.	Explanation
+yep, that sounds fair	game started.	Result
+sorry, wood's not on my menu	lj has kind of soured my wood desires	Explanation
+yer	sorry..	Comment
+having the best midsummer evar	though technically it was yesterday	Correction
+or sheep or wood?	anyone trade clay for wheat?	no_relation
+i do, 	what do you have?	Q_Elab
+hello	did the last game get played?	Clarification_question
+ccg, coud i beg a clay?	i can offer wheat or sheep?	Elaboration
+when is the next one	i dunno	Question_answer_pair
+clay and ore :) 	ok wood then? 	no_relation
+i need a clay	woodnsheep ended their turn.	Result
+ok	board layout set.	no_relation
+does anybody want a wood or a wheat? 	yup	Question_answer_pair
+the arrow is still on me,	but i can't seem to do anything	Contrast
+i have some good/bad news :s	i just got an email about winning a competition for movie tickets	Elaboration
+metropols of wheat	mmmmmmmmmm	no_relation
+odds that people remember?	50/50	Elaboration
+i have a clay or a wood	wood sounds good	Acknowledgement
+oh come one, i will fall asleep!	whats taking him so long?	Elaboration
+ok	oh ok	Acknowledgement
+looking to trade wheat for ore	here	Question_answer_pair
+clay for wood	consummate execution on the trade :d	no_relation
+not really	on my part anyway	Elaboration
+bye	bye	Acknowledgement
+errr... no	sorry	Comment
+agreed	cheers, well played ccg	no_relation
+anyone have wheat?	none	Question_answer_pair
+sure	soo... how do we do this?	Clarification_question
+not me aria, sorry	k,	Acknowledgement
+brick?	no	Question_answer_pair
+but you got wood??	nope sorry	no_relation
+can i get a wood?	no	Question_answer_pair
+good game guys	see ya next time!	Comment
+hmmm, ok.	how about a clay?	Result
+did anything show?	yep worked!	Question_answer_pair
+i need ore or clay.	for wood?	Q_Elab
+i got wheat 	but you got wood??	Contrast
+how many games do we have left to play then?	i hav only played this one	Question_answer_pair
+anyone give me wood for ore?	none	Question_answer_pair
+ok laura	being called laura is odd :p	Comment
+i'm not getting anything from these rolls :p	lol	Comment
+my internet just reset itself twice	d'oh	Comment
+anyone have clay to spare? 	nope, sorry	Question_answer_pair
+still no	none of those neither :(	Parallel
+mine eat much mutton	mmmmmmmmmm	Comment
+or at least bracing themse	lves for a claim?	Continuation
+any clay lying around?	still no	Question_answer_pair
+true	but you are quite well placed ;)	Contrast
+thx!	yw	Acknowledgement
+but i dont want to ruin the board	np	no_relation
+thank you	yup :)	no_relation
+i have one i can trade	what do ypu want?	Q_Elab
+there's an awesome settlers blog	http://developingcatan.wordpress.com	Elaboration
+i rejected it,	maybe it will reset	Result
+just checking,	catanstrophe ended their turn.	no_relation
+sure	ig ended their turn.	no_relation
+willing to trade for clay and sheep	got some clay.	Question_answer_pair
+also 7's,	we've had about half the rolls as sevens	Elaboration
+then i guess	theres an accept button right next to it	Continuation
+i will give a wood	ouch!	no_relation
+anyone wheat for clay?	strangely i have no wheat	Question_answer_pair
+if you have basically anything else to give me	i can give you wood	Conditional
+well, thats a problem.	we were supposed to play two today, ... and well...	Elaboration
+have play this java version before?	you've mention that generally friday and saturday nights aren't good for.	no_relation
+matches the rest of the interface then :)	yeah :-(	Acknowledgement
+anyone have sheep for clay?	no sry	Question_answer_pair
+none still	need to see a t	Elaboration
+anyone want sheep for clay?	no	Question_answer_pair
+but i am half asleep.	:d	Comment
+i'll trade with ariachiba	cool.	Acknowledgement
+dumb question	sorry,	no_relation
+sorry	sabercat ended their turn.	Result
+next game on thursday?	well, i look forward to thursday, yes	Question_answer_pair
+what happens now? do we play more?	ok, i'll send out a group email	Parallel
+am i?	i mean, nine resources,	Question_answer_pair
+see you later matt, cheers for all your commitment	haha, seriuosly?	no_relation
+not in this game,	but it was only this turn - i remember :p	Contrast
+...or do i	hahah	Comment
+well played, you two!	not really	Comment
+i meant kieran, sorry	ok deal.	Question_answer_pair
+don't haveit	no sheep.	no_relation
+ok, anyone willing to part with a wheat?	i can offer brick or sheep.	Elaboration
+nice one	:)	Acknowledgement
+william, you are wheatylicious over there	need ore	no_relation
+will anyone give me ore or grain for wood?	i cangive you an ore for one	Question_answer_pair
+not after i got stoled from :(	i did think that was a bit optimistic	Acknowledgement
+clay or sheep for wood.....	sorry	no_relation
+ok, anyone willing to part with a wheat?	can't	Question_answer_pair
+twice!	^^	Acknowledgement
+not to trade,	sorry	Comment
+sounds good	catanstrophe ended their turn.	no_relation
+my sheep!	would you like it back?	Q_Elab
+anyone got wood?	agnes does...	Question_answer_pair
+i can give some sheep for some wood	coool	Acknowledgement
+i have spare wheat	sure	Question_answer_pair
+no	i have 10min left :(	Background
+i think some of them have played one game only	sorry that took so long	Comment
+does it work now?	yes, fixed	Acknowledgement
+am i?	what do you mean?	Elaboration
+ah, great.	we can start.	Result
+does anyone have clay?	or sheep?	Alternation
+i make it 5 games including that	yep	no_relation
+any one got a sheep?	cheshirecatgrin ended their turn.	Result
+anyone have clay	no clay for you,	Question_answer_pair
+anyone got any ore?	what do you have to offer?	Q_Elab
+i need brick though.	... from zorburt	no_relation
+oh right,	"i traded after you said ""do you still?"""	Continuation
+wood for ore?	not this round, sorry	Question_answer_pair
+can't help	sorry..	no_relation
+what, so i always roll 7?	well,	Question_answer_pair
+i would love some ore	i can trade clay and wood	Elaboration
+if you type cash cash cash in	anyone want ore?	no_relation
+rather sheep	i don't have any sheep	Contrast
+anyone have clay?	yes	Question_answer_pair
+alas ccg i have none	you seem the trustworthy sort	Contrast
+anyone have wood?	no wood sorry	Question_answer_pair
+no	not me	Parallel
+again	as always	Elaboration
+ty ty	yw!	Acknowledgement
+two?	sure you can!	no_relation
+wait	i give an ore	Elaboration
+euan?	sure,	Question_answer_pair
+yes why not	thx	no_relation
+no	zorburt made an offer to trade 2 sheep for 1 wood from the bank or a port.	no_relation
+no ore,	ah well.	Acknowledgement
+it does for us... it said you rolled 11	skinnylinny has 8 resources.	no_relation
+ok :)	we do a 3 person game	no_relation
+you need it	to be two roads from any other settlement.	Continuation
+anyone got wheat or sheep?	and fancy wood?	Continuation
+oh crap :d	hehehe	Comment
+so how do people know about the league?	and markus, etc?	Continuation
+anyone has ore?	ive got nothing...	Question_answer_pair
+anyone have clay that would like ore?	not at the moment	Question_answer_pair
+inca may oblige	but i'm sitting on my metal pile :/	Contrast
+i know, i saw that	i figured my wheat factory was a target	Explanation
+anyone have wheat or wood?	ljaybrad123 made an offer to trade 3 ore for 1 clay from the bank or a port.	Result
+i'm after wood	ok	Acknowledgement
+nope	no worries, i'll keep asking :d	Acknowledgement
+wow, two 11's already,	doesn't look good	Result
+ah. fun i take it?	still, it looks very nicely laid out to be honest.	Contrast
+anyone want to give a sheep?	for?	Q_Elab
+me on 34, you 25, matt 24, duncan 22	congrats ;)	Comment
+yer thats finr	*fine	Correction
+no ore,	considering my burgeoning resources :d	Background
+markus?	it did work before, right?	no_relation
+clay?	sheeo?	Result
+apologies for missing the last game	no problem!	Acknowledgement
+i can give some sheep for some wood	1:1?	Q_Elab
+would anybody like wood?	i can give you clay for it	Question_answer_pair
+i can give an ore or a wood	evryone needs clay	Question_answer_pair
+and no	we should try and speed through.	Comment
+i was rather rich in wheat	indeed, the 3s were better than 11s	no_relation
+going...	tempting, though.	no_relation
+thanks	now what?	Clarification_question
+i will trade with you when its my turn, 	i've done that in practice so many times!	Comment
+i've played one game so far	and was waiting three other times for people	Continuation
+still not one	how many rolls, 30?	Clarification_question
+ok,	i'll take the ore	Result
+hmm.	game started.	no_relation
+i am utterly clayless	clay?	no_relation
+is there anything else you would want for wood?	i have monopolized and used all the wood!	Question_answer_pair
+hmmm, oh well.	skinnylinny ended their turn.	Sequence
+more wheat,	anyone need wheat?	Result
+what happened?	i passed the dice,	Question_answer_pair
+anyone has clay?	also, yes.	Question_answer_pair
+ take your time	no worries....	no_relation
+for sheep?	how about clay for sheep:	Continuation
+what a gent	first a cad, now a gent ;d	Comment
+cool, can you do 2 for 2?	yes	Question_answer_pair
+i want clay	me too	Parallel
+not me	apologies	Comment
+i'm back.	we said we'd wait till 19:10, right?	Clarification_question
+oh. never mind, now it did	lol no worries	Comment
+hi,	how's things?	Clarification_question
+happy to make even	i am a man of my word	Explanation
+i still need clay	ores?	Result
+sorry was asf for a mo	no worries....	Comment
+ahhh	i see the arrow thanks	Elaboration
+i'd like some sheep?	srry can't help	Question_answer_pair
+i want to practice buildign something.	oh i can't	Comment
+can i get a clay from someone?	can i get an ore?	Continuation
+i literally lost	nnnoooo	Comment
+please only start the game when all four participants are there	uhm, there should be 4 in total, i think.	Elaboration
+ok then :)	so do you want the clay or the sheep?	Clarification_question
+anyone has wood?	i do	Question_answer_pair
+stop that city :d	nooooo :d	no_relation
+how did tuesdays game go?	who won?	Q_Elab
+nay :(	i had one just now	Elaboration
+i will give a sheep for an ore?	i'll give you 1 ore for a sheep	Question_answer_pair
+ore any1?	clay?	Result
+what is it,	4:1 with the bank?	Elaboration
+i can offer wheat...	i would like some ore.	no_relation
+no ore,	i lament :(	Result
+do you have a sheep to trade?	i was after wood	Question_answer_pair
+none.	hmm	Acknowledgement
+should we add time	or kill it	Alternation
+the trade offer is between katherine and josephinel.	remember that the easiest way to play is to negotiate trades!	Continuation
+i want graom	grain	Correction
+if i roll a 7	i will be sad bunny...	Conditional
+i have no idea where is better,	sorry	Comment
+unfortunately, neither one	really need to move that robber blocking your clay, eh? :/	no_relation
+yes	clay please	Elaboration
+possibly not my greatest ever play,	yes,	Acknowledgement
+need mine	sorry,	Comment
+for a sheep :)	ok	Acknowledgement
+thanks all, was fun!	am off now -	Continuation
+i cn giv sheep	ok	Acknowledgement
+not me bro..	ha...	Comment
+i've yet to roll a 7 this game	this is statistically bizarre	Comment
+hi	should we email everyone 	no_relation
+ah,	then no thanks :)	Result
+it's colour coded,	not by name	Continuation
+i'll trade ore for wheat	which person?	Q_Elab
+charlotte?	no	Question_answer_pair
+i think it is 10	awesome	Comment
+got a socketexception error appear in this chat line	i guess we'll see if it happens again	Comment
+:9	it is, yeah, even so	no_relation
+thanks all	yikes	Comment
+sry...	how to trade with the bank? 	no_relation
+not got any,	thanks anyway!	Acknowledgement
+cheers if you email me the form now,	already working on it.	Acknowledgement
+if we can't do it tonight,	if we're allowed to	Conditional
+or a wood for wheat	do you have any ore?	Clarification_question
+hi	and carina 	no_relation
+good times.	that was fun.	Elaboration
+i'm after wood... for clay	sorry	Question_answer_pair
+i have no wheat, sorry	gotwood4sheep rejected trade offer.	Result
+they should have.	if not,	Correction
+got none, sorry :(	ljaybrad123 ended their turn.	no_relation
+anyone want sheep...	i've got a yard full	Elaboration
+oh yeah	i feel neglected over here.	Comment
+anyone got clay or sheep?	neither,	Question_answer_pair
+yes	but what do you want in return again?	Contrast
+wheat/wood for ore?	no ore.	Question_answer_pair
+so hang on... all of us won a game?	i guess so	Question_answer_pair
+anyone got wood/ore for wheat/sheep?	i'm empty	Question_answer_pair
+i'll give you sheep for it?	or an ore.	Alternation
+same	strange	Comment
+ill try	ok	Acknowledgement
+i'd like some wheat?	me too	Parallel
+omg!	i hv to b sumwher at 630	Explanation
+i will trade	ok	Acknowledgement
+yep it was	well,	Continuation
+maybe a trip to the doctors as well in that case	?	Continuation
+do you get a random one of my resources then?	i did, yeah	Question_answer_pair
+i'm very tempted	if you don't deal with the evidence now	no_relation
+pas de problems ;)	gotwood4sheep ended their turn.	Result
+yeah i went to docs	well at least that's on file.	Comment
+ow come on,	i did	Contrast
+i will trade an ore for a wheat	i only get a reject button	no_relation
+so i'm quite proud of him too.	some gr	Elaboration
+i either didn't see that at all	orr....	Alternation
+i could offer sheep or ore (to gotwood4sheep)	how many wood you after,	Q_Elab
+i just don't have an awful lot of time	wassuup	no_relation
+is euan being conspicuously silent	or looking elsewhere? :d	Alternation
+anyone got spare ore/sheep/clay?	i can give sheep for wheat	Question_answer_pair
+i think i'd rather hang on to my wheat i'm afraid	kk i'll take my chances then...	Acknowledgement
+any sheep?	woodnsheep made an offer to trade 2 wheat for 1 clay from the bank or a port.	Result
+after you put him 	and before he's moved	Continuation
+anyone got clay or sheep?	what are you offering?	Q_Elab
+j?	mmatrtajova has 6 resources.	no_relation
+as rare as 4s ;)	but 4s always seem to come up more often in my experience	Contrast
+yep	nope	no_relation
+it's been your turn the whole time	ahhh	no_relation
+ccg so wealthy!	kerching	Elaboration
+sheep for ore?	woodnsheep ended their turn.	Result
+hmm	could you throw in a sheep with the wood?	Continuation
+i'll take wood or wheat for an ore	ok will trade wood	Acknowledgement
+oh ... nevermind	sry was eating dinner	Explanation
+gg night	nicely played	no_relation
+1 wheat for 1 clay	im less of a threat :p	no_relation
+i have an ore,	which person?	Q_Elab
+anyone have  sheep?	no	Question_answer_pair
+i have ore,	sabercat ended their turn.	no_relation
+still got our 9 blocked	:-(	Comment
+glad i got rid of some cards!	nope	no_relation
+i got them,	what are you offering?	Q_Elab
+wood sounds good	... from cardlinger	no_relation
+do you still have any spare wheat lj?	no wheat	Question_answer_pair
+always helpful.	:)	Comment
+where is your office?	informatics forum 3.24.	Question_answer_pair
+(got)	yep	no_relation
+does anyone have wood?	catanstrophe ended their turn.	Result
+sorry, not here	ok	Acknowledgement
+still wanting clay??	 will swap for ore?	Elaboration
+no1 cn giv clay ryt?	rainbow ended their turn.	Result
+have anything you can spare for the trade tomm?	not realy, just ditch it	Question_answer_pair
+no help	sorry	Continuation
+and now i'll shut up!	:*)	Comment
+got another 1	what would you trade it for?	Q_Elab
+i've got restart button.	same	Parallel
+sorry	amanda?	no_relation
+what do you need?	what can u gve?	Q_Elab
+we play this to the end, not until the time runs out, yeah?	markus joined the game.	no_relation
+anyone need wheat?	i'm fine for wheat at the mo	no_relation
+another one, anybody?	not yet	Question_answer_pair
+markus	sorry,	Comment
+yep	... from kersti	no_relation
+cool!	did you read the blog?	Clarification_question
+that's fine,	thank you for this opportunity	Comment
+i will give you 1 wood for 1 clay	thankyou	Acknowledgement
+tomas, next trade add in a sheep	i'm not a student :)	no_relation
+once jon sits down...	ha ha!	Acknowledgement
+the guy with 2 knights	lol	Comment
+any chance of a wheat?	woodnsheep ended their turn.	Result
+move the rubber from sheep	robber	Correction
+um	still want to trade?	Continuation
+i have a clay or a wood	joel what were you after?	Q_Elab
+i'll speak to markus about this 5th person who doesn't email	if we don't hear from them over the weekend	Elaboration
+yes why not	i will do it	Elaboration
+sorry,	but hey	Contrast
+amy, can you trade clay?	sabercat ended their turn.	no_relation
+ill give you a wood for a clay?	wud u rather wheat or wood?	Alternation
+it shows what is available	yeah.	no_relation
+yep, afraid lj gets relegated unless there's less demand	1 win each to the end	no_relation
+"gg well played"""	nice game guys	Acknowledgement
+yeah	you have 10 cards!	Explanation
+will you get two for an ore?	huh?	Clarification_question
+ typo	sorry	Comment
+trade with bank/port	ok worked	Acknowledgement
+anyone have a spare wood,	nope,	Question_answer_pair
+give me the wood	and if you give me wood and clay	Continuation
+anyone have clay for wood?	frayed knot	Question_answer_pair
+does anyone have clay for an ore?	no clay :/	Question_answer_pair
+yes	ok, ghetto...	Acknowledgement
+ugh	double ugh.	Acknowledgement
+sent it to the wrong person :p	yup,	Acknowledgement
+need 2 ore?	i can give you ore	Question_answer_pair
+hey whaqt is trade with bank or port?	you can swap 4 of one type of card for 1 of your choice	Question_answer_pair
+anyone want a sheep..?	thanks	no_relation
+it doesn't	thanks	Comment
+can anyone trade clay for ore	no ore, sorry.	Question_answer_pair
+i'll go fill in the form,	about 2 on wednesday then?	no_relation
+can't	gramos ended their turn.	no_relation
+i am looking for grain.	can trade sheep or wood	Elaboration
+any clay?	nope	Question_answer_pair
+oh snap.	:) i may have fibbed a little...	Explanation
+unlike last one :)	sorry	no_relation
+don't give tomm wheat	can you give wheat to me, dave?	Result
+someone want to drop her an email?	sure	Question_answer_pair
+1 win each to the end	it was a much more balanced season	no_relation
+yes,	ore please	Elaboration
+i was going to say,	anyone got sheep	Elaboration
+oh well	chameleon ended their turn.	Result
+will you not get it or something?	ah	no_relation
+i can give sheep or wheat...	both?	Q_Elab
+dont have the other...	2 sheep for 2 clay?	Elaboration
+if we don't hear from them over the weekend	nah, i'll skip it. 	no_relation
+sure you can!	i kinda need it	Contrast
+i have some	for wood?	Q_Elab
+so me again	ok,	no_relation
+i'm after wood	o	no_relation
+ok,	i'll try to send an email.	Result
+i want to practice buildign something.	i know for roads it will show on the map	Explanation
+amazingly, no o.o	i've traded all my mutton	Elaboration
+anyone want to give me a wheat for a wood?	skinnylinny ended their turn.	Result
+does anyone want sheep?	yes	Question_answer_pair
+me neither,	oh well	Acknowledgement
+the algorithm	for rolling numbers	Continuation
+oh yeah!	sorry	Comment
+bingo!	congrats	Acknowledgement
+i'm oreless	ok	Acknowledgement
+no, im about to start maths,	i just hang around appleton a lot	Contrast
+*wood	i hav wod	no_relation
+nah,	skinnylinny ended their turn.	Result
+don't suppose anyone will give me a wood for a clay now?	...yes	Question_answer_pair
+kieran should be coming	and carina 	Continuation
+just used it on that road	got too excited	Explanation
+not that! :d	lol	Comment
+yeah	you need clay??	Q_Elab
+i am looking for grain.	none.	Question_answer_pair
+dont have wood, can offer + wheat and 1 sheap for ore	ok	Acknowledgement
+for ore?	or wheat?	Alternation
+was helping someone with css	... from euan	no_relation
+no	gotwood4sheep has 6 resources.	no_relation
+for registering a trade, you'll have to select the player it goes to.	ok,	Acknowledgement
+i literally lost	d:	Comment
+i need wood bro...	i was talking about a previous trade attempt with woodnsheep..	Contrast
+cheers, enjoyed our game stogethers	yeah was good	Acknowledgement
+oh hello?	she left..	Explanation
+cheers anyway :)	sparkles made an offer to trade 2 sheep for 1 wheat from the bank or a port.	Result
+thats okay,	i have only done it once as well	Explanation
+don't suppose anyone wants to give me a wheat in exchange for wood or sheep or clay do they?	same	Question_answer_pair
+ah	what do you want?	no_relation
+i can't move the robber,	i think the game's stuck	Explanation
+clay..	yep	Elaboration
+got a socketexception error appear in this chat line	yes,	Acknowledgement
+sure :)	the temotation to accept...	Comment
+hi.	i am really really sorry are you still here?	Continuation
+ah see, now you have 6!	i was right to be aggressive	Result
+well don!	yep,	Acknowledgement
+i have clay	would like wood	Continuation
+fine, pretty quick	gdgd	Acknowledgement
+can i get a wood or a clay?	no sorry	Question_answer_pair
+hi chameleon	ok,	Acknowledgement
+not sure how many u need to trade	unless either of you want some sheep?	Contrast
+well we can stlil trade	if you want	Conditional
+crept up out of nowhere	i'll get you next time ;)	Contrast
+wood anyone?	sorry	Question_answer_pair
+just because he has wheat	good point-	no_relation
+ah,	keyser84 made an offer to trade  for  from the bank or a port.	Result
+roll a damn 8	7	Correction
+tomas ore for clay?	ok then 2 ore	Question_answer_pair
+good diplomacy thus far all :)	we have a lot to teach the un	Elaboration
+anyone got clay or ore they can swap for wheat?	only got that one	Question_answer_pair
+nope	at the moment i can't get clay	Elaboration
+tricksy he is	and false :d	Continuation
+u guys shd thank me	moved the robber :p	Explanation
+wood and a wheat?	fine	Question_answer_pair
+i moved it there with the 7,	ah,	Acknowledgement
+yeeep	yey	no_relation
+why won't it let me build a road again?	i have the resources now	Explanation
+i will remember that :)	if so	no_relation
+no wheat...	hmmm, oh well.	Acknowledgement
+you just seem to be well-positioned	not if i can;t earn anything cos of robbers	Correction
+i think it said catanstrophe rolled an 8	ok	Acknowledgement
+nobody else here yet?	howdy folks	Question_answer_pair
+cu	yes	no_relation
+any time other than thursday afternoon	tomorrow around 1.30?	Clarification_question
+how about sheep then?	again i can offer wood	Elaboration
+i can give clay for wheat	somdechn made an offer to trade 4 clay for 1 wheat from the bank or a port.	Result
+yep	meh.	no_relation
+c'est la vie	when we're past diplomacy :p	no_relation
+same time?	ok	Question_answer_pair
+bah i need my clay.	thanks tho	Comment
+sure	have done	Elaboration
+it looks like a very... intoxicated cloud	maybe it's laughing gas	Comment
+anyone got a wood?	none here	Question_answer_pair
+i have a wood	ore	Continuation
+ah!	:d	Comment
+hey all!	board layout set.	no_relation
+got my pizza and tea	nice..	Comment
+hehe	informatics 3.24	no_relation
+yeah!	no problem	no_relation
+and you don't have 2 ore?	i could go 2:2 ore:wood	Explanation
+i'm happy	to do it gratis	Elaboration
+silly ztime...	na...	Comment
+no i didn't ljay,	i'm not a student :)	Explanation
+erm bad bruising - muscle damge -	ouch :(	Comment
+anyone got clay...	yiin ended their turn.	Result
+thanks	anyway, good game guys.	Background
+anyone want to give me a wheat for a wood?	ok	Question_answer_pair
+i don't think this will end by then	we may have to call it a practice run	Result
+if we can't do it tonight,	unfortunately, i won't be able.	Contrast
+it did work before, right?	yep	Question_answer_pair
+ok	those were some awesome spots	no_relation
+can you wait for a few more minutes?	yeh	Question_answer_pair
+i need wheat.  	anyone want sheep?	Continuation
+has he disappeared?	dmm has died	Question_answer_pair
+how do i send it to her?	the coloured boxed underneath	Question_answer_pair
+to the pub!	have fun :)	Comment
+do you have flatmates downloading lots of data???	thats what i'm thinking	Question_answer_pair
+theres your 9	yey!	Acknowledgement
+hey lj!	having the best midsummer evar	no_relation
+mmmmm	hi.	Acknowledgement
+indeed,	something to do with a robber on the 5	Explanation
+i'd take some pictures	if you don't deal with the evidence now	Explanation
+lol	board layout set.	no_relation
+congrats ;)	cool!	Acknowledgement
+but you're next, joel :)	thanks	Acknowledgement
+2	ok 2 ore for 1 clay, 1 wood?	Q_Elab
+need sheep. have ore/clay	sheep for clay	Question_answer_pair
+skinnylinny : trade wheat	?	Continuation
+anyone have any wood?	rennoc1 ended their turn.	Result
+no sheep here,	can do wood for wheat	Q_Elab
+sorry for getting your twice in a row there!	indeed, no offence	Acknowledgement
+and no 5's have been rolled	ghettoette has 6 resources.	no_relation
+just press done at the end	katherine ended their turn.	no_relation
+any wood?	nope	Question_answer_pair
+raef gets 4 ore!	woo-hoo!	Comment
+and i rather need it ...	neeeeeeeed	Comment
+buona sera	let's hope william finds us well	Continuation
+do you lose the chat log?	we were talking with out you,	Background
+hey!	just wanted to watch the exciting finale	Continuation
+is your points counter showing you 4 or 6?	yours is showing me 4,	Explanation
+that was one of those start moves that never panned out like i hoped :0	i'd like to see it.	no_relation
+which i think is a cloud, actually	(a sheep with no legs)	Elaboration
+o brickn	that was a weird blip	Comment
+i need to leave soon too	understandable.	Acknowledgement
+yeah..	which?	Clarification_question
+that one was unusually quick though	because you completely thrashed us :p	Explanation
+hi charlotte!	we're waiting for 2 other players	Continuation
+i'll trade my wheat for clay.	yeah sounds good	Acknowledgement
+nicely played	thanks	Acknowledgement
+same here	we'll srot something out	Result
+you want any sheep or clay?	amycharl made an offer to trade 4 sheep for 1 wheat from the bank or a port.	Sequence
+ty euan :)	no worries.	Acknowledgement
+congrats :)	ill win next time :d	no_relation
+oh my...my poor sheep.	should be called wolfnsheep	Result
+so, got clay? :p	soooooon	Question_answer_pair
+i have no ore,	oh well	Acknowledgement
+okay i'm ready!	good luck guys	Acknowledgement
+once jon sits down...	then someone can hit start	Conditional
+we all seem to have a surfeit.	gotwood4sheep ended their turn.	Result
+plus white won the last game	so we're both enemies ;)	Result
+oops sorry	yeah i can do that.	no_relation
+anyone else	no,	Question_answer_pair
+no	ya	no_relation
+same	oh well	Acknowledgement
+i coulda just traded you that outright	instead of slaughtering all my poor innocent sheep!	Contrast
+does anyone have sheep to trade?	yes,	Question_answer_pair
+bye	seriuosly, i'm one resrouce from winning	Contrast
+i see...	the arrow means it's your turn.	Elaboration
+hi william!	hi.	Acknowledgement
+i have played a lot 	and i have been pretty lucky with the rolls!	no_relation
+anyone got clay?	kersti made an offer to trade 4 sheep for 1 clay from the bank or a port.	Result
+na	if people wanted wood	no_relation
+?	seriously?	no_relation
+hmm. lj is about to win anyway.	i am not so sure..	Comment
+good game	thanks, good game indeed	Acknowledgement
+or when can you do,	the game we should have played at 7	Elaboration
+anyone have clay?	only you :d	Question_answer_pair
+there's an awesome settlers blog	i can give you a sheep?	no_relation
+nope,	sure	no_relation
+anyone want wheat for sheep?	i'll take one wheat for one sheep	Question_answer_pair
+can you build more than 2 settlements?	you can,	Question_answer_pair
+so i guess	with 10 cards you have to discard.	Continuation
+nope,	got them	Explanation
+dont have that :d	anything else is fine	Result
+can you do 1 for 1?	i'll give 2	Question_answer_pair
+i've got things to do while we wait	if he doesn't turn up by then	Result
+nope,	oh sorry, misunderstood you haha	Acknowledgement
+if you could all lose with less than 5vp,	i'd appreciate it	Conditional
+that's cool niko,	yeah well i like to share	Acknowledgement
+anyone want to give me a clay or ore?	sorry	Question_answer_pair
+oh shoot	... from gramos	no_relation
+i dnt have wood	i have clay	Contrast
+cool	who are we waiting on now?	Clarification_question
+sparkles, would you like sheep for some of your clay?	oh.	Correction
+can you do for another sheep?	ah, actually, i can't,	Question_answer_pair
+:)	gotwood4sheep ended their turn.	no_relation
+can i get a sheep for a wood?	no	no_relation
+er sheep for clay attempt 2?	shawnus, any clay for me?	Continuation
+anyone has ore?	yes	Question_answer_pair
+clay for an ore?	make it two?	Q_Elab
+i could do 1 wood for a sheep perhaps?	i can give you a sheep and a wheat 	Question_answer_pair
+youre like me	okeydoke	Acknowledgement
+anyone have wood available?	do you have clay?	Q_Elab
+anyone want any wheat?	markus joined the game.	Sequence
+:)	this is a good arrangement	Explanation
+anyone want wheat for sheep?	 or wheat for ore?	Alternation
+anyone want to trade to give me wood?	yep	Question_answer_pair
+i'm a grain factory	no ore sorry	no_relation
+i do not	catanstrophe ended their turn.	no_relation
+i will give you 1 clay for 1 sheep :)	tomas sure	Question_answer_pair
+alright... what about some wheat?	no sry	Question_answer_pair
+got none :(	:(	Acknowledgement
+ty ty :)	no worries :)	Comment
+i'm back here..	k	Acknowledgement
+yep,	cheers!	Acknowledgement
+haha nevrermind then	ig ended their turn.	Result
+isn't that the game on sunday?	(without carina)	Elaboration
+i need clay or ore. i have lots of wood	i have neither sorry	Question_answer_pair
+http://www.catan.com/en/download/?soc_rv_rules_091907.pdf	afraid catan has sunk ya	Comment
+ash, please remembe to fill in the questionnaire	well, thanks, it was a great game!	no_relation
+i'm enjoying these emoticons	me too.	Parallel
+did that work?	nope	Question_answer_pair
+on a 7 anyone with lots of cards gets halved	sure	no_relation
+i'll give you sheep for it?	1 sheep for 1 wood is that?	Q_Elab
+none left to trade	c'est pas vrai	Correction
+i will happily trade.	don't currently need wheat though.	Contrast
+it is a bit, 	i'm up early tomorrow	Explanation
+anyone prepared to trade ore for wood?	dont even have either	Question_answer_pair
+sheep, wood	ok it turns out you have to give me something in a trade	Contrast
+sheep or wood in return for clay or wheat?	nope	Question_answer_pair
+it just stopped my go...	:(	Comment
+would offer 1 wood for 1 sheep /	1 wood for 1 wheat	Alternation
+i could swear the dice probabilities are off in this.	it's a ghastly interface	Comment
+oh... i see.	how is nz?	no_relation
