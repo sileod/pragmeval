@@ -38,7 +38,7 @@ The preprocessed datasets are available in the disceval folder in tsv format.
 
 
 
-### Build DiscEval 1.0 from sourcse
+### Build DiscEval 1.0 from source files
 
 You can also build the dataset from the sources if you want to change the preprocessing
 
