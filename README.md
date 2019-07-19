@@ -8,7 +8,7 @@ This is a data/code release accompanying this paper:
 
 # Contents
 
-We introduce DiscEval, a compilation of 11 evaluation datasets with a focus on discourse, that can be used for evaluation of English Natural Language Understanding, or as auxiliary training tasks for NLP models.
+DiscEval is a compilation of 11 evaluation datasets with a focus on discourse, that can be used for evaluation of English Natural Language Understanding, or as auxiliary training tasks for NLP models.
 
 Previous evaluation frameworks have no clear way to evaluate how models deal with implicatures or different kinds of speech acts. Instead of using semantics-centered tasks like Natural Language Inference of Semantic Similarity, we propose a discourse-centered evaluation with a focus on meaning as use. 
 
@@ -38,7 +38,7 @@ The preprocessed datasets are available in the disceval folder in tsv format.
 
 
 
-### Build DiscEval 1.0
+### Build DiscEval 1.0 from sourcse
 
 You can also build the dataset from the sources if you want to change the preprocessing
 
