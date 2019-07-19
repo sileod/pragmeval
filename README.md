@@ -10,7 +10,8 @@ This is a data/code release accompanying this paper:
 
 DiscEval is a compilation of 11 evaluation datasets with a focus on discourse, that can be used for evaluation of English Natural Language Understanding, or as auxiliary training tasks for NLP models.
 
-Previous evaluation frameworks have no clear way to evaluate how models deal with implicatures or different kinds of speech acts. Instead of using semantics-centered tasks like Natural Language Inference of Semantic Similarity, we propose a discourse-centered evaluation with a focus on meaning as use. 
+While the idea of meaning as use permeates NLP, it's not clear that current evaluations fully account for that aspect. Previous evaluation frameworks have no clear way to evaluate how models deal with implicatures or different kinds of speech acts, and are arguably focussing on semantics (Natural Language Inference of Semantic Similarity) rather than use. 
+We propose a discourse-centered evaluation with a focus on meaning as use. 
 
 
 
