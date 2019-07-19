@@ -35,7 +35,7 @@ We propose a discourse-centered evaluation with a focus on meaning as use.
 
 `git clone https://github.com/synapse-developpement/DiscEval.git`
 
-The preprocessed datasets are available in the disceval folder in tsv format. 
+The preprocessed datasets are available in the `disceval` folder in tsv format. 
 
 
 
