@@ -29,7 +29,11 @@ unzip -d verifiability jpark_aclw14.zip
 wget http://www.hlt.utdallas.edu/~zixuan/EssayScoring/essays.zip
 unzip essays.zip
 
-# STAC 
+# GUM
+git clone https://github.com/amir-zeldes/gum
+© 2019 GitHub, Inc.
+
+# STAC (can need more than a few minutes)
 wget https://www.irit.fr/STAC/situated_only_tables.zip
 unzip situated_only_tables.zip
 wget https://www.irit.fr/STAC/linguistic_only_tables.zip
@@ -40,6 +44,3 @@ cp linguistic_only_tables/* stac_data_pickles/
 
 python3 flatten_stac.py
 python3 export_stac.py
-
-# GUM
-git clone https://github.com/amir-zeldes/gum
