@@ -4,7 +4,7 @@ This is a data/code release accompanying this paper:
 
 - Title: "Discourse-Based Evaluation of Language Understanding"
 - Authors: Damien Sileo, Tim Van de Cruys, Camille Pradel and Philippe Muller
-- article coming very soon
+- https://arxiv.org/abs/1907.08672
 
 # Contents
 
