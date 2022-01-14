@@ -47,8 +47,21 @@ Run the `bash get_data.bash` in `data` to download dataset from the sources
 
 Run the notebook `Make DiscEval 1.0` after having specified `disceval_base_path` in the third cell to perform preprocessing and exports.
 
+# Citation
+
+```
+@misc{sileo2019discoursebased,
+      title={Discourse-Based Evaluation of Language Understanding}, 
+      author={Damien Sileo and Tim Van-de-Cruys and Camille Pradel and Philippe Muller},
+      year={2019},
+      eprint={1907.08672},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
 # Contact
 
 For further information, you can contact:
 
-damien dot sileo at synapse-fr dot com
+damien dot sileo at gmail dot com
