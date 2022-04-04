@@ -32,17 +32,16 @@ We propose a discourse-centered evaluation with a focus on meaning as use.
 
 # Instructions
 
-### Clone PragmEval
+### Recommended usage
+```python
+from datasets import load_dataset
+dataset = load_dataset('pragmeval','gum')
+```
 
+### Building from sources:
 `git clone https://github.com/synapse-developpement/PragmEval.git`
 
 The preprocessed datasets are available in the `pragmeval` folder in tsv format. 
-
-
-
-### Build PragmEval 1.0 from source files
-
-You can also build the dataset from the sources if you want to change the preprocessing
 
 Run the `bash get_data.bash` in `data` to download dataset from the sources
 
