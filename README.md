@@ -1,14 +1,15 @@
-# DiscEval: Discourse-Based Evaluation of Language Understanding
+# PragmEval :  A Pragmatics-Centered Evaluation Framework for Natural Language Understanding
 
 This is a data/code release accompanying this paper:
 
-- Title: "Discourse-Based Evaluation of Language Understanding"
+- Title: "A Pragmatics-Centered Evaluation Framework for Natural Language Understanding"
 - Authors: Damien Sileo, Tim Van de Cruys, Camille Pradel and Philippe Muller
+- Accepted at LREC2022
 - https://arxiv.org/abs/1907.08672
 
 # Contents
 
-DiscEval is a compilation of 11 evaluation datasets with a focus on discourse, that can be used for evaluation of English Natural Language Understanding, or as auxiliary training tasks for NLP models.
+PragmEval is a compilation of 11 evaluation datasets with a focus on discourse, that can be used for evaluation of English Natural Language Understanding, or as auxiliary training tasks for NLP models.
 
 While the idea of meaning as use permeates NLP, it's not clear that current evaluations fully account for that aspect. Previous evaluation frameworks have no clear way to evaluate how models deal with implicatures or different kinds of speech acts, and are arguably focussing on semantics (Natural Language Inference of Semantic Similarity) rather than use. 
 We propose a discourse-centered evaluation with a focus on meaning as use. 
@@ -31,29 +32,29 @@ We propose a discourse-centered evaluation with a focus on meaning as use.
 
 # Instructions
 
-### Clone DiscEval
+### Clone PragmEval
 
-`git clone https://github.com/synapse-developpement/DiscEval.git`
+`git clone https://github.com/synapse-developpement/PragmEval.git`
 
-The preprocessed datasets are available in the `disceval` folder in tsv format. 
+The preprocessed datasets are available in the `pragmeval` folder in tsv format. 
 
 
 
-### Build DiscEval 1.0 from source files
+### Build PragmEval 1.0 from source files
 
 You can also build the dataset from the sources if you want to change the preprocessing
 
 Run the `bash get_data.bash` in `data` to download dataset from the sources
 
-Run the notebook `Make DiscEval 1.0` after having specified `disceval_base_path` in the third cell to perform preprocessing and exports.
+Run the notebook `Make PragmEval 1.0` after having specified `pragmeval_base_path` in the third cell to perform preprocessing and exports.
 
 # Citation
 
 ```
-@misc{sileo2019discoursebased,
-      title={Discourse-Based Evaluation of Language Understanding}, 
+@misc{sileo2022pragmeval,
+      title={A Pragmatics-Centered Evaluation Framework\\ for Natural Language Understanding}, 
       author={Damien Sileo and Tim Van-de-Cruys and Camille Pradel and Philippe Muller},
-      year={2019},
+      year={2022},
       eprint={1907.08672},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
