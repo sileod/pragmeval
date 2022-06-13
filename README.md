@@ -38,6 +38,9 @@ from datasets import load_dataset
 dataset = load_dataset('pragmeval','gum')
 ```
 
+Evaluate your model with this script:
+https://colab.research.google.com/drive/1sg--LF4z7XR1wxAOfp0-3d4J6kQ9nj_A?usp=sharing
+
 ### Building from sources:
 `git clone https://github.com/synapse-developpement/PragmEval.git`
 
