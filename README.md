@@ -53,13 +53,19 @@ Run the notebook `Make PragmEval 1.0` after having specified `pragmeval_base_pat
 # Citation
 Accepted at LREC2022
 ```
-@misc{sileo2022pragmeval,
-      title={A Pragmatics-Centered Evaluation Framework\\ for Natural Language Understanding}, 
-      author={Damien Sileo and Tim Van-de-Cruys and Camille Pradel and Philippe Muller},
-      year={2022},
-      eprint={1907.08672},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{sileo-etal-2022-pragmatics,
+    title = "A Pragmatics-Centered Evaluation Framework for Natural Language Understanding",
+    author = "Sileo, Damien  and
+      Muller, Philippe  and
+      Van de Cruys, Tim  and
+      Pradel, Camille",
+    booktitle = "Proceedings of the Thirteenth Language Resources and Evaluation Conference",
+    month = jun,
+    year = "2022",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://aclanthology.org/2022.lrec-1.255",
+    pages = "2382--2394",
 }
 ```
 
