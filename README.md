@@ -51,7 +51,7 @@ Run the `bash get_data.bash` in `data` to download dataset from the sources
 Run the notebook `Make PragmEval 1.0` after having specified `pragmeval_base_path` in the third cell to perform preprocessing and exports.
 
 # Citation
-```
+```bib
 @inproceedings{sileo-etal-2022-pragmatics,
     title = "A Pragmatics-Centered Evaluation Framework for Natural Language Understanding",
     author = "Sileo, Damien  and
